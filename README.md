@@ -1,2 +1,4 @@
 # 2FA.jetzt
-List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software. 
+Adding entries to YML files:
+- Please use alphabetical order
+- Add an image to folder img/YML-NAME
