@@ -1,0 +1,69 @@
+- name: Wrike
+    url: https://www.wrike.com/de/
+    twitter: Wrike
+	facebook: Wrike
+	img: wrike.png
+	tfa: "No"
+    
+- name: Bitrix24
+    url: https://www.bitrix24.de/
+    twitter: Bitrix24De
+	facebook: bitrix24de
+	img: bitrix24.png
+	tfa: "No"
+	
+- name: ManageEngine
+    url: https://www.manageengine.com/
+    twitter: ManageEngine
+    facebook: ManageEngine
+	img: manageengine.png
+	tfa: "No"
+	
+- name: Planzone
+    url: https://www.planzone.de/
+    twitter: planzoneproject
+    facebook: PlanzoneProject
+	img: planzone.png
+	tfa: "No"
+    
+- name: weclapp
+    url: https://www.weclapp.com/de/
+    twitter: weclapp_com
+    facebook: weclapp
+	img: weclapp.png
+	tfa: "No"
+   
+- name: smartsheet
+    url: https://de.smartsheet.com/
+    twitter: SmartsheetVerifizierter Account
+    facebook: smartsheet
+	img: smartsheet.png
+	tfa: "No"
+	
+ - name: craft
+    url: https://www.craft.io/
+    twitter: CreateWithCraft
+    facebook: CreateWithCraft
+	img: craft.png
+	tfa: "No"
+    
+ - name: ONEPOINT PROJECTS
+    url: http://www.onepoint-projects.com/home/overview?action=setLanguage&language=de
+    twitter: onepointproject
+    facebook: onepointproject
+	img: onepointproject.png
+	tfa: "No"
+ 
+- name: projectfacts
+    url: https://www.projectfacts.de/
+    twitter: projectfacts
+    facebook: projectfacts
+	img: projectfacts.png
+	tfa: "Yes"
+    tan: Yes
+    
+- name: planio
+    url: https://plan.io/
+    twitter: planio
+	img: planio.png
+	tfa: "No"

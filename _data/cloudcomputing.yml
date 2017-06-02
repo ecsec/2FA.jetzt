@@ -1,0 +1,71 @@
+- name: IBM Bluemix
+    url: https://www.ibm.com/cloud-computing/bluemix/
+    twitter: IBMBluemix
+    facebook: ibmbluemix
+    img: ibmbluemix.png
+    tfa: "No"
+    
+- name: Intel Cloud Computing
+    url: http://www.intel.de/content/www/de/de/cloud-computing/overview.html
+    twitter: Intel_DE
+    facebook: intelgermany
+    img: intel.png
+    tfa: "No"
+    
+- name: Microsoft Azure
+    url: https://azure.microsoft.com/de-de/
+    twitter: azure
+    facebook: microsoftazure
+    img: azure.png
+    tfa: "No"
+    
+- name: amazon web services
+    url: https://aws.amazon.com/de/what-is-cloud-computing/
+    twitter: awscloud
+    facebook: amazonwebservices.de
+    img: amazonws.png
+    tfa: "No"
+    
+- name: Google Cloud Platform
+    url: https://cloud.google.com/
+    twitter: googlecloud
+    facebook: googlecloud
+    img: googlecloud.png
+    tfa: "Yes"
+    tan: Yes
+    smartphone: Yes
+    
+- name: ProfitBricks Cloud Computing
+    url: https://www.profitbricks.de/de/
+    twitter: ProfitBricksDE
+    facebook: ProfitbricksDE
+    img: profitbricks.png
+    tfa: "No"
+    
+- name: pmOne Cloud BI
+    url: https://www.pmone.com/blog/wiki/cloud-computing/
+    twitter: pmoneag
+    facebook: pmOneAG
+    img: pmone.png
+    tfa: "No"
+    
+- name: Dell EMC
+    url: https://www.emc.com/en-us/cloud/hybrid-cloud-computing/index.htm
+    twitter: DellEMCcloud
+    facebook: DellEMCDeutschland
+    img: dellemc.png
+    tfa: "No"
+    
+- name: QSC Cloud Services
+    url: https://www.qsc.de/de/produkte-loesungen/cloud-services-und-it-outsourcing/
+    twitter: QSCAGPresse
+    facebook: QSCAG
+    img: qsc.png
+    tfa: "No"
+    
+- name: SysEleven
+    url: https://www.syseleven.de/tag/cloud-computing/
+    twitter: SysEleven
+    facebook: SysEleven
+    img: syseleven.png
+    tfa: "No"

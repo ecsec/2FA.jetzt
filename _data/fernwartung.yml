@@ -1,0 +1,42 @@
+- name: ISL Online
+    url: https://example.org
+    twitter: ISL_Online
+    facebook: ISLOnlineSoftware
+    img: islonline.png
+    tfa: "No"
+    
+- name: bitconnect24
+    url: https://bitconnect24.ch/
+    twitter: bitconnect24
+    img: bitconnect24.png
+    tfa: "Yes"
+    signatur: Yes
+    
+- name: TeamViewer
+    url: https://www.teamviewer.com/de/
+    twitter: TeamViewer
+    facebook: teamviewer
+    img: teamviewer.png
+    tfa: "No"
+    
+- name: Iperius Remote
+    url: https://www.iperiusremote.de/index.aspx
+    twitter: IperiusBackup
+    facebook: iperiusbackup
+    img: iperius.png
+    tfa: "No"
+        
+- name: LogMeIn
+    url: https://secure.logmein.com/home/de
+    twitter: LogMeIn
+    facebook: logmein
+    img: logmein.png
+    tfa: "No"
+        
+- name: join.me
+    url: https://www.join.me/de
+    twitter: joinme
+    facebook: join.me
+    img: joinme.png
+    tfa: "Yes"
+    tan: Yes

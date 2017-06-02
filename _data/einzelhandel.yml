@@ -1,0 +1,69 @@
+- name: Lidl
+    url: https://www.lidl.de/de/onlineshop
+    twitter: lidl
+    facebook: lidl
+    img: lidl.png
+    tfa: "No"
+    
+- name: Alibaba.com
+    url: https://www.alibaba.com/
+    twitter: AlibabaTalk
+    facebook: AlibabaUS
+    img: alibaba.png
+    tfa: "No"   
+    
+- name: Etsy
+    url: https://www.etsy.com/
+    twitter: EtsyDE
+    facebook: EtsyDE
+    img: etsy.png
+    tfa: "No"
+    
+- name: Nike
+    url: http://www.nike.com/de/de_de/
+    twitter: Nike
+    facebook: nike
+    img: nike.png
+    tfa: "No"
+    
+- name: H&M
+    url: http://www.hm.com/de/
+    twitter: hm
+    facebook: hmdeutschland
+    img: hm.png
+    tfa: "No"
+    
+- name: GameStop
+    url: https://www.gamestop.de/
+    twitter: GameStop
+    facebook: GameStop
+    img: gamestop.png
+    tfa: "No"
+    
+- name: Walmart
+    url: https://www.walmart.com/
+    twitter: Walmart
+    facebook: walmart
+    img: walmart.png
+    tfa: "No"
+    
+- name: Best Buy
+    url: http://www.bestbuy.com/
+    twitter: BestBuy
+    facebook: bestbuy
+    img: bestbuy.png
+    tfa: "No"
+    
+- name: newegg
+    url: https://www.newegg.com/
+    twitter: Newegg
+    facebook: Newegg
+    img: newegg.png
+    tfa: "No"
+    
+- name: Costco
+    url: https://www.costco.com/
+    twitter: Costco
+    facebook: Costco
+    img: costco.png
+    tfa: "No"

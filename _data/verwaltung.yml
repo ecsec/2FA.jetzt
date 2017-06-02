@@ -1,0 +1,104 @@
+- name: Elster Online
+    url: https://www.elsteronline.de/eportal/Oeffentlich.tax
+    twitter: eliaselster
+    img: elster.png
+    tfa: "Yes"
+    eid: Yes
+    signatur: Yes
+    tan: Yes
+    sonstige: Yes
+    
+- name: Serviceportal Baden-Württemberg
+    url: https://www.service-bw.de/de/
+    email_address: service-bw@im.bwl.de
+    img: serviceportalbw.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Landratsamt Rhein-Neckar-Kreis
+    url: https://kfz.virtuelles-rathaus.de/igv2-man/servlet/Internetgeschaeftsvorfaelle?MANDANT=08226000&AUFRUF=IZU
+    email_address: Onlinezulassung@rhein-neckar-kreis.de
+    img: kfzrheinneckarkreis.png
+    tfa: "Yes"
+    eid: Yes
+
+- name: Stadt Nürnberg - "Mein Nürnberg"
+    url: https://www.nuernberg.de/internet/mein_nuernberg/
+    twitter: nuernberg_de
+    img: meinnuernberg.png
+    tfa: "Yes"
+    eid: Yes
+
+- name: Bayern Portal
+    url: https://www.nuernberg.de/internet/mein_nuernberg/
+    twitter: stmflh
+    facebook: BayerischesStaatsministeriumDerFinanzen
+    img: bayernportal.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Berlin Online-Halterauskunft 
+    url: https://www.berlin.de/labo/mobilitaet/kfz-zulassung/halterauskunft/shop.86598.php
+    twitter: Berlin_de_News
+    facebook: Hauptstadtportal
+    img: berlinde.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Berlin Online-Antrag Feinstaubplakette
+    url: https://www.berlin.de/labo/mobilitaet/kfz-zulassung/feinstaubplakette/shop.85047.php#Shop
+    twitter: Berlin_de_News
+    facebook: Hauptstadtportal
+    img: berlinde.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: HamburgService
+    url: https://gateway.hamburg.de/HamburgGateway/Home/Index
+    email_address: dataporthamburggateway-service@dataport.de
+    img: hamburgservice.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Wiesbaden - Bürgerservice-Portal
+    url: http://www.wiesbaden.de/rathaus/virtuelle-verwaltung/online-dienste/buergerservice-portal.php
+    email_address: online-redaktion@wiesbaden-marketing.de
+    img: wiesbadenbuergerserviceportal.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Stadt Münster - citeq
+    url: http://www.stadt-muenster.de/rathaus/online-dienste.html
+    email_address: stadtverwaltung@stadt-muenster.de
+    img: stadtmuenster.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Kreis Lippe - Bürgerportal
+    url: https://portal.kreis-lippe.de/
+    email_address: portal@kreis-lippe.de
+    img: lippeservice.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Stadt Aachen - Online-Bescheinigungen
+    url: https://serviceportal.aachen.de/onlinedienste
+    email_address: stadt.aachen@mail.aachen.de
+    img: aachen.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Stadt Hagen - "Mein Hagen"
+    url: https://www.hagen.de/web/de/hagen_de/04/0402/040201/040201.html
+    twitter: Hagen_Westfalen
+    facebook: Hagen.Westfalen
+    img: hagenmeinhagen.png
+    tfa: "Yes"
+    eid: Yes
+    
+- name: Stadt Köln - Urkunden Service
+    url: http://www.stadt-koeln.de/service/
+    email_address: stadtverwaltung@stadt-koeln.de
+    img: stadtkoeln.png
+    tfa: "Yes"
+    eid: Yes

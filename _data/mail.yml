@@ -1,0 +1,65 @@
+- name: 1&1
+    url: https://hosting.1und1.de/eigene-email-adresse
+    twitter: 1und1
+    facebook: 1and1
+    img: 1und1.png
+    tfa: "No"
+    
+- name: Strato
+    url: https://www.strato.de/mail/
+    twitter: STRATO_AG
+    facebook: strato
+    img: strato.png
+    tfa: "No"
+    
+- name: GMX
+    url: https://www.gmx.net/
+    twitter: gmxmail
+    facebook: GMX.de
+    img: gmx.png
+    tfa: "No"
+    
+- name: web.de
+    url: https://web.de/
+    email_address: info@web.de
+    img: webde.png
+    tfa: "No"
+    
+- name: POSTEO
+    url: https://posteo.de/de
+    twitter: Posteo_de
+    img: posteo.png
+    tfa: "No"
+
+- name: mailbox.org
+    url: https://mailbox.org/
+    twitter: mailbox_org
+    img: mailboxorg.png
+    tfa: "No"
+    
+- name: freenetmail
+    url: https://email.freenet.de/index.html
+    twitter: freenet_tweets
+    facebook: freenet
+    img: freenetmail.png
+    tfa: "No"
+    
+- name: Telekom Mail
+    url: http://www.t-online.de/
+    twitter: Telekom_hilft
+    facebook: telekomhilft
+    img: telekommail.png
+    tfa: "No"
+    
+- name: EEXperts Hosting
+    url: http://www.eexpertshosting.de/
+	email_address: anfrage@eexpertshosting.de
+    img: eexpertshosting.png
+    tfa: "No"
+    
+- name: goneo
+    url: https://www.goneo.de/
+    twitter: goneo
+    facebook: goneo
+    img: goneo.png
+    tfa: "No"
