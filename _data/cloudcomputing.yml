@@ -19,12 +19,6 @@ websites:
   img: CenturyLink.jpeg
   tfa: "No"
 
-- name: cloudTEC
-  url: https://www.cloudtec.de/
-  email_address: info@cloudtec.de
-  img: cloudTEC.png
-  tfa: "No"
-
 - name: console CONNECT
   url: https://www.consoleconnect.com/
   twitter: consoleconnect
@@ -164,7 +158,7 @@ websites:
   twitter: MIVITEC
   tfa: "No"
 
-- name: Miicrosoft
+- name: Microsoft
   url: https://www.microsoft.com/de-de
   img: microsoft-gray.png
   facebook: MicrosoftDE
@@ -214,13 +208,6 @@ websites:
   url: https://www.pfalzkom-manet.de/
   img: pfalzkom.png
   email_address: vertrieb@pfalzkom-manet.de
-  tfa: "No"
-
-- name: ratiokontakt
-  url: https://ratiokontakt.de/
-  img: ratiokontakt.png
-  twitter: ratiokontakt
-  facebook: ratiokontakt-GmbH-231822493498041/
   tfa: "No"
 
 - name: ratiokontakt
