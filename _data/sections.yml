@@ -1,0 +1,119 @@
+- id: aufgabenmanagement
+  title: Aufgabenmanagement
+  icon: tasks
+
+- id: banking
+  title: Banken
+  icon: euro
+
+- id: bezahldienste
+  title: Bezahldienste
+  icon: payment
+
+- id: bildung
+  title: Bildung
+  icon: book
+
+- id: cloudcomputing
+  title: Cloud Computing
+  icon: cloud
+
+- id: datensicherheit
+  title: Datensicherheit
+  icon: disk outline
+
+- id: domains
+  title: Domains
+  icon: globe
+
+- id: einzelhandel
+  title: Einzelhandel
+  icon: cart
+
+- id: email
+  title: Email
+  icon: mail
+
+- id: fernwartung
+  title: Fernwartung
+  icon: desktop
+
+- id: finanzen
+  title: Finanzen
+  icon: money
+
+- id: health
+  title: Gesundheit
+  icon: medkit
+
+- id: identity
+  title: Identitätsmanagement
+  icon: user
+
+- id: iot
+  title: Internet der Dinge
+  icon: cubes
+
+- id: investing
+  title: Investment
+  icon: line chart
+
+- id: communication
+  title: Kommunikation
+  icon: chat
+
+- id: cryptocurrencies
+  title: Kryptowährungen
+  icon: bitcoin
+
+- id: food
+  title: Lebensmittel
+  icon: coffee
+
+- id: security
+  title: Sicherheit
+  icon: lock
+
+- id: developer
+  title: Softwareentwicklung
+  icon: code
+
+- id: other
+  title: Sonstiges
+  icon: lab
+
+- id: social
+  title: Soziales
+  icon: users
+
+- id: gaming
+  title: Spiele
+  icon: gamepad
+
+- id: telekommunikation
+  title: Telekommunikation
+  icon: call
+
+- id: transport
+  title: Transport
+  icon: car
+
+- id: entertainment
+  title: Unterhaltung
+  icon: music
+
+- id: versicherungen
+  title: Versicherungen
+  icon: umbrella
+
+- id: versorgungsunternehmen
+  title: Versorgungsunternehmen
+  icon: lightning
+
+- id: verwaltung
+  title: Verwaltung
+  icon: university
+
+- id: hosting
+  title: Webhosting
+  icon: sitemap

@@ -1,4 +1,347 @@
 websites:
+- name: ADVA Optical Networking
+  url: http://www.advaoptical.com
+  twitter: ADVAOpticalNews
+  facebook: ADVAOpticalNetworking
+  img: ADVALogo.png
+  tfa: "No" 
+
+- name: Marktplatz Mittelstand
+  url: http://www.marktplatz-mittelstand.de/b2b
+  twitter: dermarktplatz
+  facebook: marktplatzmittelstand
+  img: Marktplatz_Mittelstand.jpeg
+  tfa: "No" 
+
+- name: CenturyLink
+  url: http://www.centurylink.de/
+  twitter: centurylinkemea
+  img: CenturyLink.jpeg
+  tfa: "No"
+
+- name: cloudTEC
+  url: https://www.cloudtec.de/
+  email_address: info@cloudtec.de
+  img: cloudTEC.png
+  tfa: "No"
+
+- name: console CONNECT
+  url: https://www.consoleconnect.com/
+  twitter: consoleconnect
+  facebook: ConsoleConnectInc/
+  img: console_connect.png
+  tfa: "No"
+
+- name: dnsXperts
+  url: https://www.dnsxperts.de/
+  img: dnsXperts.png
+  email_address: info@dnsXperts.de
+  tfa: "No"
+
+- name: DTS Systeme
+  url: https://www.dts.de/
+  img: DTSSysteme.jpg
+  email_address: info@dts.de
+  tfa: "No"
+
+- name: ecotel
+  url: https://www.ecotel.de/
+  img: ecotel.png
+  email_address: info@ecotel.de
+  tfa: "No"
+
+- name: empaction
+  url: http://empaction.com/de/
+  img: empaction-logo.png
+  facebook: empaction
+  email_address: marketing@empaction.com
+  tfa: "No"
+
+- name: equada
+  url: https://www.equada.de/
+  img: equada-logo-small.png
+  twitter: equada_de
+  facebook: equada.de
+  tfa: "No"
+
+- name: EQUINIX
+  url: http://www.equinix.de/
+  img: EQUINIX.png
+  twitter: EquinixDE
+  facebook: Equinix
+  tfa: "No"
+
+- name: Eeset
+  url: https://www.eset.com/de/
+  img: eset.jpg
+  twitter: ESET_DE
+  facebook: ESET.DACH/
+  tfa: "No"
+
+- name: eunetworks
+  url: http://www.eunetworks.de/
+  img: eunetworks.jpg
+  twitter: euNetworks
+  facebook: euNetworks
+  tfa: "No"
+
+- name: filoo
+  url: https://www.filoo.de/
+  img: filoo.png
+  twitter: filoogmbh
+  facebook: filoogmbh
+  tfa: "No"
+
+- name: HORNETSECURITY
+  url: https://www.hornetsecurity.com/de/
+  img: hornetsecurity_logo.png
+  twitter: hornetsecurity
+  facebook: antispameurope
+  tfa: "No"
+
+- name: entega
+  url: https://www.entega-medianet.de/
+  img: entega.png
+  email_address: info@entega-medianet.de
+  tfa: "No"
+
+- name: incupsala
+  url: https://www.incapsula.com/
+  img: incapsula-website-security-and-acceleration-logo.png
+  facebook: Incapsula
+  twitter: Incapsula_com
+  tfa: "No"
+
+- name: INGRAM Micro
+  url: https://de.ingrammicro.eu/
+  img: ingram-logo2x-white.png
+  twitter: ingrammicrode
+  tfa: "No"
+
+- name: interoute
+  url: http://www.interoute.de/
+  img: interoute.jpg
+  twitter: Interoute_DE
+  facebook: InterouteDE
+  tfa: "No"
+
+- name: interxion
+  url: http://www.interxion.com/de/
+  img: interxion.png
+  twitter: interxion_de
+  facebook: interxiondeutschland/
+  tfa: "No"
+
+- name: ITENOS
+  url: https://www.itenos.de/
+  img: itenos.png
+  twitter: itenos
+  tfa: "No"
+
+- name: KAMP
+  url: https://www.kamp.de/index.php?id=624&id=624
+  img: logo_neu_kamp_140x50.png
+  email_address: info@kamp.de
+  tfa: "No"
+
+- name: leaseweb
+  url: https://www.leaseweb.com/de/
+  img: leaseweb.png
+  facebook: LeaseWeb/
+  twitter: leaseweb
+  tfa: "No"
+
+- name: Legitimis
+  url: http://www.legitimis.de/de/
+  img: legitimis.png
+  email_address: infomail@legitimis.com
+  tfa: "No"
+
+- name: Mivitec GmbH
+  url: https://www.rz-muenchen.de/de/
+  img: logo-correcture.png
+  facebook: MIVITEC
+  twitter: MIVITEC
+  tfa: "No"
+
+- name: Miicrosoft
+  url: https://www.microsoft.com/de-de
+  img: microsoft-gray.png
+  facebook: MicrosoftDE
+  twitter: MIVITEC
+  tfa: "No"
+
+- name: ndix
+  url: http://www.ndix.net/
+  img: ndix.png
+  email_address: info@ndix.net
+  tfa: "No"
+
+- name: netcup
+  url: https://www.netcup.de/
+  img: netcup.png
+  email_address: mail@netcup.de
+  tfa: "No"
+
+- name: NetUSE AG
+  url: https://www.netuse.de/
+  img: Logo-normal_NetUSE-Website-transp@2x.png
+  facebook: NetUSE.AG
+  tfa: "No"
+
+- name: noris network
+  url: https://www.noris.de/home.html
+  img: noris-logo.png
+  facebook: norisnetwork
+  twitter: norisnetwork/
+  tfa: "No"
+
+- name: optivo
+  url: https://www.optivo.com/de/
+  img: optivo.png
+  facebook: optivo
+  twitter: optivo
+  tfa: "No"
+
+- name: OVH
+  url: https://www.ovh.de/
+  img: ovh.png
+  facebook: ovhde/
+  twitter: ovh_de
+  tfa: "No"
+
+- name: Pfalzkom Manet
+  url: https://www.pfalzkom-manet.de/
+  img: pfalzkom.png
+  email_address: vertrieb@pfalzkom-manet.de
+  tfa: "No"
+
+- name: ratiokontakt
+  url: https://ratiokontakt.de/
+  img: ratiokontakt.png
+  twitter: ratiokontakt
+  facebook: ratiokontakt-GmbH-231822493498041/
+  tfa: "No"
+
+- name: ratiokontakt
+  url: https://ratiokontakt.de/
+  img: ratiokontakt.png
+  twitter: ratiokontakt
+  facebook: ratiokontakt-GmbH-231822493498041/
+  tfa: "No"
+
+- name: redhat
+  url: https://www.redhat.com/de
+  img: redhat.png
+  twitter: RedHatNews
+  facebook: RedHatInc/
+  tfa: "No"
+
+- name: salesforce
+  url: https://www.salesforce.com/de/
+  img: salesforce.png
+  twitter: salesforcede
+  facebook: SalesforceDE/
+  tfa: "No"
+
+- name: SAP
+  url: https://www.sap.com/germany/index.html
+  img: SAP.png
+  twitter: sapdach
+  facebook: SAP
+  tfa: "No"
+
+- name: SwissSign
+  url: https://www.swisssign.com/de/
+  img: SwissSign.jpg
+  twitter: swisssign
+  facebook: swisssign/
+  tfa: "No"
+
+- name: VIVAI
+  url: https://www.vivai.de/startseite/
+  img: SwissSign.jpg
+  twitter: swisssign
+  facebook: swisssign/
+  tfa: "No"
+
+- name: Fabasoft
+  url: https://www.fabasoft.com
+  twitter: fabasoft
+  facebook: fabasoft
+  img: fabasoft.jpg
+  tfa: "Yes"
+  eid: Yes
+  sonstige: Yes
+
+- name: calvaDrive
+  url: https://www.calvadrive.de
+  twitter: calvadrive
+  facebook: calvadrive
+  img: calvadrive.jpg
+  tfa: "No"
+
+- name: centron
+  url: https://www.centron.de
+  twitter: centron_de
+  facebook: centronGmbH
+  img: centron.png
+  tfa: "No"
+
+- name: QSC AG
+  url: https://www.qsc.de
+  twitter: QSCAGPresse
+  facebook: QSCAG
+  img: qsc.png
+  tfa: "No"
+
+- name: profihost
+  url: https://www.profihost.com
+  twitter: profihost
+  facebook: Profihost
+  img: profihost.jpg
+  tfa: "No"
+
+- name: oneclick
+  url: https://oneclick-cloud.com
+  twitter: oneclick_cloud
+  facebook: oneclick.cloud
+  img: oneclick.png
+  tfa: "No"
+
+- name: iDGARD
+  url: https://www.idgard.de
+  twitter: UnisconGmbH
+  facebook: webprivacy
+  img: iDGARD.png
+  tfa: "No"
+
+- name: claranet
+  url: https://www.claranet.de
+  email_address: info@claranet.de
+  img: claranet.png
+  tfa: "No"
+
+- name: netfiles
+  url: https://www.netfiles.de
+  email_address: info@netfiles.de
+  img: netfiles.png
+  tfa: "No"
+
+- name: Telekom CLOUD
+  url: https://cloud.telekom.de/
+  twitter: telekomcloud
+  facebook: TelekomCloud
+  img: TelekomCloud.jpg
+  tfa: "No"
+
+- name: cloudTEC
+  url: https://www.cloudtec.de
+  twitter: cloudtec
+  facebook: CloudTec.GmbH
+  img: cloudTEC.png
+  tfa: "No"
+
 - name: IBM Bluemix
   url: https://www.ibm.com/cloud-computing/bluemix/
   twitter: IBMBluemix
