@@ -1,68 +1,69 @@
+websites:
 - name: adyen
-    url: https://www.adyen.com/de_DE/
-    twitter: Adyen
-    facebook: AdyenPayments
-    img: adyen.png
-    tfa: "No"
-    
+  url: https://www.adyen.com/de_DE/
+  twitter: Adyen
+  facebook: AdyenPayments
+  img: adyen.png
+  tfa: "No"
+
 - name: mPAY24
-    url: https://www.mpay24.com/web/
-    facebook: mPAY24
-    img: mpay24.png
-    tfa: "No"
-    
+  url: https://www.mpay24.com/web/
+  facebook: mPAY24
+  img: mpay24.png
+  tfa: "No"
+
 - name: Klarna
-    url: https://www.klarna.com/de
-    twitter: Klarna
-    facebook: KlarnaDeutschland
-    img: klarna.png
-    tfa: "No"
-    
+  url: https://www.klarna.com/de
+  twitter: Klarna
+  facebook: KlarnaDeutschland
+  img: klarna.png
+  tfa: "No"
+
 - name: ClickDirectPay
-    url: https://user.clickdirectpay.com/login
-    twitter: ClickDirectPay
-    img: clickdirectpay.png
-    tfa: "No"
-    
+  url: https://user.clickdirectpay.com/login
+  twitter: ClickDirectPay
+  img: clickdirectpay.png
+  tfa: "No"
+
 - name: Micro Payment
-    url: https://www.micropayment.de/home/?_src=rwr
-    twitter: Micropayment_de
-    facebook: micropayment.GmbH
-    img: micropayment.png
-    tfa: "No"
-    
+  url: https://www.micropayment.de/home/?_src=rwr
+  twitter: Micropayment_de
+  facebook: micropayment.GmbH
+  img: micropayment.png
+  tfa: "No"
+
 - name: PAYMILL
-    url: https://www.paymill.com/de/online-bezahldienste
-    twitter: PAYMILL
-    facebook: paymill
-    img: paymill.png
-    tfa: "No"
-    
+  url: https://www.paymill.com/de/online-bezahldienste
+  twitter: PAYMILL
+  facebook: paymill
+  img: paymill.png
+  tfa: "No"
+
 - name: paydirekt
-    url: https://www.paydirekt.de/
-    twitter: paydirekt
-    facebook: paydirekt
-    img: paydirekt.png
-    tfa: "No"
-    
+  url: https://www.paydirekt.de/
+  twitter: paydirekt
+  facebook: paydirekt
+  img: paydirekt.png
+  tfa: "No"
+
 - name: amazon pay
-    url: https://pay.amazon.com/de/
-    twitter: amazonpay
-    facebook: AmazonPay
-    img: amazonpay.png
-    tfa: "No"
-    
+  url: https://pay.amazon.com/de/
+  twitter: amazonpay
+  facebook: AmazonPay
+  img: amazonpay.png
+  tfa: "No"
+
 - name: Go Cardless
-    url: https://gocardless.com/
-    twitter: GoCardless
-    facebook: GoCardless
-    img: gocardless.png
-    tfa: "No"
-    
+  url: https://gocardless.com/
+  twitter: GoCardless
+  facebook: GoCardless
+  img: gocardless.png
+  tfa: "No"
+
 - name: masterpass
-    url: https://masterpass.com/
-    twitter: mastercardnews
-    facebook: MastercardDE
-    img: masterpass.png
-    tfa: "No"   
-    
+  url: https://masterpass.com/
+  twitter: mastercardnews
+  facebook: MastercardDE
+  img: masterpass.png
+  tfa: "No"   
+

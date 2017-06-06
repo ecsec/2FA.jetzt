@@ -1,66 +1,67 @@
+websites:
 - name: Strato HiDrive
-    url: https://www.strato.de/online-speicher/deutsche-cloud-anbieter/
-    twitter: STRATO_ag
-    facebook: strato
-    img: strato.png
-    tfa: "No"
-    
-- name: livedrive
-    url: https://www2.livedrive.com/
-    twitter: Livedrive_com
-    facebook: livedriveonline
-    img: livedrive.png
-    tfa: "No"
-    
-- name: luckycloud
-    url: https://luckycloud.de/de/
-    facebook: luckycloud.GmbH
-    img: luckycloud.png
-    tfa: "No"
-    
-- name: SecureSafe
-    url: https://www.securesafe.com/de/
-    twitter: SecureSafe
-    facebook: SecureSafe
-    img: securesafe.png
-    tfa: "No"
-    
-- name: SugarSync
-    url: https://www.sugarsync.com/de/
-    twitter: sugarsync
-    facebook: SugarSync
-    img: sugarsync.png
-    tfa: "No"
-    
-- name: Microsoft One Drive
-    url: https://onedrive.live.com/about/de-de/
-    twitter: onedrive
-    facebook: OneDrive
-    img: onedrive.png
-    tfa: "Yes"
-    tan: Yes
-    
-- name: Google Drive
-    url: https://www.google.com/drive/
-    twitter: googledrive
-    img: googledrive.png
-    tfa: "Yes"
-    tan: Yes
-    
- - name: blaucloud
-    url: https://www.blaucloud.de/
-    twitter: blaucloud_de
-    img: blaucloud.png
-    tfa: "No"
+  url: https://www.strato.de/online-speicher/deutsche-cloud-anbieter/
+  twitter: STRATO_ag
+  facebook: strato
+  img: strato.png
+  tfa: "No"
 
- - name: Mega
-    url: https://mega.nz/
-    twitter: MEGAprivacy
-    img: mega.png
-    tfa: "No" 
-    
- - name: Telekom MagentaCLOUD
-    url: https://cloud.telekom-dienste.de/
-    twitter: Telekom_hilft
-    img: magentacloud.png
-    tfa: "No" 
+- name: livedrive
+  url: https://www2.livedrive.com/
+  twitter: Livedrive_com
+  facebook: livedriveonline
+  img: livedrive.png
+  tfa: "No"
+
+- name: luckycloud
+  url: https://luckycloud.de/de/
+  facebook: luckycloud.GmbH
+  img: luckycloud.png
+  tfa: "No"
+
+- name: SecureSafe
+  url: https://www.securesafe.com/de/
+  twitter: SecureSafe
+  facebook: SecureSafe
+  img: securesafe.png
+  tfa: "No"
+
+- name: SugarSync
+  url: https://www.sugarsync.com/de/
+  twitter: sugarsync
+  facebook: SugarSync
+  img: sugarsync.png
+  tfa: "No"
+
+- name: Microsoft One Drive
+  url: https://onedrive.live.com/about/de-de/
+  twitter: onedrive
+  facebook: OneDrive
+  img: onedrive.png
+  tfa: "Yes"
+  tan: Yes
+
+- name: Google Drive
+  url: https://www.google.com/drive/
+  twitter: googledrive
+  img: googledrive.png
+  tfa: "Yes"
+  tan: Yes
+
+- name: blaucloud
+  url: https://www.blaucloud.de/
+  twitter: blaucloud_de
+  img: blaucloud.png
+  tfa: "No"
+
+- name: Mega
+  url: https://mega.nz/
+  twitter: MEGAprivacy
+  img: mega.png
+  tfa: "No" 
+
+- name: Telekom MagentaCLOUD
+  url: https://cloud.telekom-dienste.de/
+  twitter: Telekom_hilft
+  img: magentacloud.png
+  tfa: "No" 

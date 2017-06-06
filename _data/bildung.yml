@@ -1,68 +1,69 @@
+websites:
 - name: Open HPI
-    url: https://open.hpi.de/
-    twitter: openhpi
-    facebook: OpenHPI
-    img: openhpi.png
-    tfa: "No"
+  url: https://open.hpi.de/
+  twitter: openhpi
+  facebook: OpenHPI
+  img: openhpi.png
+  tfa: "No"
 
 - name: Udacity
-    url: https://de.udacity.com/
-    twitter: udacity
-    facebook: Udacity
-    img: udacity.png
-    tfa: "No"
+  url: https://de.udacity.com/
+  twitter: udacity
+  facebook: Udacity
+  img: udacity.png
+  tfa: "No"
 
 - name: iversity
-    url: https://iversity.org/de
-    twitter: iversity
-    facebook: iversity.org
-    img: iversity.png
-    tfa: "No"
-    
+  url: https://iversity.org/de
+  twitter: iversity
+  facebook: iversity.org
+  img: iversity.png
+  tfa: "No"
+
 - name: Virtuelle Hochschule Bayern
-    url: https://www.vhb.org/startseite/
-    email_address: info@vhb.org
-    img: vhb.png
-    tfa: "No"
-    
+  url: https://www.vhb.org/startseite/
+  email_address: info@vhb.org
+  img: vhb.png
+  tfa: "No"
+
 - name: udemy
-    url: https://www.udemy.com/
-    twitter: udemy
-    facebook: udemy
-    img: udemy.png
-    tfa: "No"
-    
+  url: https://www.udemy.com/
+  twitter: udemy
+  facebook: udemy
+  img: udemy.png
+  tfa: "No"
+
 - name: Litmos
-    url: http://www.litmos.com/
-    twitter: litmos
-    facebook: Litmos
-    img: litmos.png
-    tfa: "No"
-    
+  url: http://www.litmos.com/
+  twitter: litmos
+  facebook: Litmos
+  img: litmos.png
+  tfa: "No"
+
 - name: BrainCert
-    url: https://www.braincert.com/
-    twitter: BrainCert
-    facebook: BrainCert
-    img: braincert.png
-    tfa: "No"
-    
+  url: https://www.braincert.com/
+  twitter: BrainCert
+  facebook: BrainCert
+  img: braincert.png
+  tfa: "No"
+
 - name: Coursera
-    url: https://www.coursera.org/
-    twitter: coursera
-    facebook: Coursera
-    img: coursera.png
-    tfa: "No"
-    
+  url: https://www.coursera.org/
+  twitter: coursera
+  facebook: Coursera
+  img: coursera.png
+  tfa: "No"
+
 - name: duolingo
-    url: https://www.duolingo.com/
-    twitter: duolingo
-    facebook: duolingo
-    img: duolingo.png
-    tfa: "No"
-    
+  url: https://www.duolingo.com/
+  twitter: duolingo
+  facebook: duolingo
+  img: duolingo.png
+  tfa: "No"
+
 - name: Edmodo
-    url: https://www.edmodo.com/
-    twitter: edmodo
-    facebook: edmodo
-    img: edmodo.png
-    tfa: "No"
+  url: https://www.edmodo.com/
+  twitter: edmodo
+  facebook: edmodo
+  img: edmodo.png
+  tfa: "No"

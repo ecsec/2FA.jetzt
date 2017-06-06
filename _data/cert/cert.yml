@@ -1,0 +1,10 @@
+projects:
+  - name: SkIDentity
+    sicherheit: ISO 27001 auf Basis von IT-Grundschutz
+    sicherheit_url: https://www.skidentity.de/features-detailed/iso-27001/
+    datenschutz: Trusted Cloud Datenschutz-Profil
+    datenschutz_url: https://www.skidentity.de/features-detailed/tcdp/
+    sonstiges: BSI TR-03124 für "Open eCard App"
+    sonstiges_url: https://www.skidentity.de/features-detailed/eid-client/
+    url: https://www.skidentity.de/
+    img: skidentity.png

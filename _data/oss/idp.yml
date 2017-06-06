@@ -1,0 +1,34 @@
+projects:
+  - name: SimpleSAMLphp
+    desc: |
+      SimpleSAMLphp ist ein in PHP geschriebenes Framework zur Authentisierung.
+      Es kann sowohl als Service Provider als auch als Identity Provider
+      eingesetzt werden.
+    std: RADIUS, SAML
+    url: https://simplesamlphp.org/
+    img: simplesamlphp.jpeg
+
+  - name: privacyIDEA
+    desc: |
+      privacyIDEA ist ein modulares Authentisierungssystem, mit dem u.a.
+      Webseiten und -portale mit einem zusätzlichen zweiten Faktor abgesichert
+      werden können.
+    std: RADIUS, SAML
+    url: https://www.privacyidea.org/
+    img: privacyidea.png
+
+  - name: LinOTP
+    desc: |
+      LinOTP ist ein eine flexible OTP-Plattform für starke Authentisierung.
+    std: RADIUS, SAML
+    url: https://linotp.org/
+    img: LinOTP.png
+
+  - name: Shibboleth
+    desc: |
+      Shibboleth ist ein Verfahren zur verteilten Authentifizierung und
+      Autorisierung für Webanwendungen und Webservices. Es kann sowohl als
+      Service Provider als auch als Identity Provider eingesetzt werden. 
+    std: SAML
+    url: https://shibboleth.net/products/service-provider.html
+    img: shibboleth.png

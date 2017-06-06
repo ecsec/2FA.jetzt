@@ -1,67 +1,68 @@
+websites:
 - name: 1&1
-    url: https://hosting.1und1.de/
-    twitter: 1und1
-    facebook: 1and1
-    img: 1und1.png
-    tfa: "No"
-    
+  url: https://hosting.1und1.de/
+  twitter: 1und1
+  facebook: 1and1
+  img: 1und1.png
+  tfa: "No"
+
 - name: Strato
-    url: https://www.strato.de/domains/
-    twitter: STRATO_AG
-    facebook: strato
-    img: strato.png
-    tfa: "No"
-    
+  url: https://www.strato.de/domains/
+  twitter: STRATO_AG
+  facebook: strato
+  img: strato.png
+  tfa: "No"
+
 - name: Domain Factory
-    url: https://www.df.eu/
-    twitter: DomainFactory
-    facebook: domainfactory.GmbH
-    img: domainfactory.png
-    tfa: "No"
-    
+  url: https://www.df.eu/
+  twitter: DomainFactory
+  facebook: domainfactory.GmbH
+  img: domainfactory.png
+  tfa: "No"
+
 - name: One.com
-    url: https://www.one.com/de/
-    twitter: onecom
-    facebook: Onecom
-    img: onecom.png
-    tfa: "No"
-    
+  url: https://www.one.com/de/
+  twitter: onecom
+  facebook: Onecom
+  img: onecom.png
+  tfa: "No"
+
 - name: InterNetX
-    url: https://www.internetx.com/domains/
-    twitter: InterNetX
-    facebook: InterNetX
-    img: internetx.png
-    tfa: "No"
-    
+  url: https://www.internetx.com/domains/
+  twitter: InterNetX
+  facebook: InterNetX
+  img: internetx.png
+  tfa: "No"
+
 - name: eDNS
-    url: https://www.edns.de/
-	email_address: IT.Support@blackpoint.de
-    img: edns.png
-    tfa: "No"
-    
+  url: https://www.edns.de/
+  email_address: IT.Support@blackpoint.de
+  img: edns.png
+  tfa: "No"
+
 - name: ALL-INKL.COM
-    url: https://all-inkl.com/
-    twitter: all_inkl_com
-    img: allinklcom.png
-    tfa: "No"
-    
+  url: https://all-inkl.com/
+  twitter: all_inkl_com
+  img: allinklcom.png
+  tfa: "No"
+
 - name: united domains
-    url: https://www.united-domains.de/
-    twitter: uniteddomains
-    facebook: uniteddomains
-    img: uniteddomains.png
-    tfa: "No"
-    
+  url: https://www.united-domains.de/
+  twitter: uniteddomains
+  facebook: uniteddomains
+  img: uniteddomains.png
+  tfa: "No"
+
 - name: DOMTAIN
-    url: https://www.domtain.de/
-    twitter: DomtainDe
-    facebook: domtain
-    img: domtain.png
-    tfa: "No"
-    
+  url: https://www.domtain.de/
+  twitter: DomtainDe
+  facebook: domtain
+  img: domtain.png
+  tfa: "No"
+
 - name: INWX
-    url: https://www.inwx.de/de
-    twitter: INWX
-    facebook: InterNetworX
-    img: inwx.png
-    tfa: "No"
+  url: https://www.inwx.de/de
+  twitter: INWX
+  facebook: InterNetworX
+  img: inwx.png
+  tfa: "No"

@@ -1,0 +1,27 @@
+projects:
+  - name: SimpleSAMLphp
+    desc: |
+      SimpleSAMLphp ist ein in PHP geschriebenes Framework zur Authentisierung.
+      Es kann sowohl als Service Provider als auch als Identity Provider
+      eingesetzt werden.
+    std: SAML
+    url: https://simplesamlphp.org/
+    img: simplesamlphp.jpeg
+
+  - name: php-saml
+    desc: |
+      php-saml ist eine PHP-Bibliothek, die genutzt werden kann, um eigene
+      Projekte um SAML-Unterstützung zu erweitern.
+    std: SAML
+    url: https://github.com/onelogin/php-saml
+    img: php-saml.png
+
+  - name: Shibboleth
+    desc: |
+      Shibboleth ist ein Verfahren zur verteilten Authentifizierung und
+      Autorisierung für Webanwendungen und Webservices. Es kann sowohl als
+      Service Provider als auch als Identity Provider eingesetzt werden. 
+    std: SAML
+    url: https://shibboleth.net/products/service-provider.html
+    img: shibboleth.png
+

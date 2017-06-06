@@ -1,67 +1,68 @@
+websites:
 - name: Deutsche Kreditbank (DKB)
-    url: https://www.dkb.de/
-    twitter: DKB_Deutschland
-	facebook: Deutsche.Kreditbank
-	img: dkb.png
-	tfa: "No"
-    
+  url: https://www.dkb.de/
+  twitter: DKB_Deutschland
+  facebook: Deutsche.Kreditbank
+  img: dkb.png
+  tfa: "No"
+
 - name: ING DiBa
-    url: https://www.ing-diba.de
-    twitter: ING_DiBa_Presse
-	facebook: ingdiba
-	img: ingdiba.png
-	tfa: "No"
-    
+  url: https://www.ing-diba.de
+  twitter: ING_DiBa_Presse
+  facebook: ingdiba
+  img: ingdiba.png
+  tfa: "No"
+
 - name: Deutsche Bank
-    url: https://www.deutsche-bank.de
-    twitter: DeuBaService
-	facebook: DeutscheBankService
-	img: deutschebank.png
-	tfa: "No"
-    
+  url: https://www.deutsche-bank.de
+  twitter: DeuBaService
+  facebook: DeutscheBankService
+  img: deutschebank.png
+  tfa: "No"
+
 - name: Postbank
-    url: https://www.postbank.de/
-    twitter: postbank
-	facebook: postbank
-	img: postbank.png
-	tfa: "No"  
-    
+  url: https://www.postbank.de/
+  twitter: postbank
+  facebook: postbank
+  img: postbank.png
+  tfa: "No"  
+
 - name: Sparkasse
-    url: https://www.sparkasse.de
-    twitter: sparkasse
-	facebook: sparkasse
-	img: sparkasse.png
-	tfa: "No"
-    
+  url: https://www.sparkasse.de
+  twitter: sparkasse
+  facebook: sparkasse
+  img: sparkasse.png
+  tfa: "No"
+
 - name: wirecard bank
-    url: https://www.wirecardbank.de/
-    twitter: wirecard
-	facebook: Wirecard
-	img: wirecard.png
-	tfa: "Yes"
-    signatur: Yes
-    
+  url: https://www.wirecardbank.de/
+  twitter: wirecard
+  facebook: Wirecard
+  img: wirecard.png
+  tfa: "Yes"
+  signatur: Yes
+
 - name: Santander
-    url: https://www.santander.de/de/privatkunden/index.html
-    twitter: SantanderBankUS
-	img: santander.png
-	tfa: "No"
-    
+  url: https://www.santander.de/de/privatkunden/index.html
+  twitter: SantanderBankUS
+  img: santander.png
+  tfa: "No"
+
 - name: Bank of Scotland
-    url: https://www.bankofscotland.de/
-    twitter: Bank_ofScotland
-	img: bankofscotland.png
-	tfa: "No"
-    
+  url: https://www.bankofscotland.de/
+  twitter: Bank_ofScotland
+  img: bankofscotland.png
+  tfa: "No"
+
 - name: Volkswagen Financial Services
-    url: https://www.volkswagenbank.de/de/privatkunden.html
-    email_address: info@vwfs.com
-	img: volkswagenbank.png
-	tfa: "No"
-    
+  url: https://www.volkswagenbank.de/de/privatkunden.html
+  email_address: info@vwfs.com
+  img: volkswagenbank.png
+  tfa: "No"
+
 - name: Targo Bank
-    url: https://www.targobank.de/
-    twitter: TARGOBANK
-	facebook: targobank
-	img: targobank.png
-	tfa: "No"
+  url: https://www.targobank.de/
+  twitter: TARGOBANK
+  facebook: targobank
+  img: targobank.png
+  tfa: "No"

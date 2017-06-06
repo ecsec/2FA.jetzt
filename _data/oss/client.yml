@@ -1,0 +1,14 @@
+projects:
+  - name: Open eCard
+    desc: |
+      Das eCard-API-Framework [BSI-TR03112] entstand vor dem Hintergrund der im
+      Jahr 2005 von der Bundesregierung verabschiedeten eCard-Strategie, die auf
+      die breite Verwendbarkeit der im Rahmen der verschiedenen Kartenprojekte
+      der Bundesverwaltung ausgegebenen und genutzten Chipkarten abzielt. Dies
+      umfasst insbesondere den neuen Personalausweis, die elektronische
+      Gesundheitskarte, die elektronische Steuererklärung (ELSTER) und weitere
+      Anwendungen zur Steigerung der Effizienz in der öffentlichen Verwaltung
+      (ELENA, De-Mail, RESISCAN, TR-ESOR, Open Data etc.).
+    std: eID-Client gemäß TR03124
+    url: https://www.openecard.org/startseite/
+    img: openecard.png

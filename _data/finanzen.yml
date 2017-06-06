@@ -1,53 +1,54 @@
+websites:
 - name: auxmoney
-    url: https://www.auxmoney.com/
-    twitter: auxmoney
-    facebook: auxmoney
-    img: auxmoney.png
-    tfa: "No"
+  url: https://www.auxmoney.com/
+  twitter: auxmoney
+  facebook: auxmoney
+  img: auxmoney.png
+  tfa: "No"
 
 - name: easy Credit
-    url: https://www.easycredit.de/
-    twitter: easyCredit_de
-    facebook: easycredit.de
-    img: easycredit.png
-    tfa: "No"
-    
+  url: https://www.easycredit.de/
+  twitter: easyCredit_de
+  facebook: easycredit.de
+  img: easycredit.png
+  tfa: "No"
+
 - name: netbank
-    url: https://www.netbank.de/
-    facebook: netbank.AG
-    img: easycredit.png
-    tfa: "No"
-    
+  url: https://www.netbank.de/
+  facebook: netbank.AG
+  img: easycredit.png
+  tfa: "No"
+
 - name: Targo Bank
-    url: https://www.targobank.de/kredit/ratenkredit.html
-    twitter: TARGOBANK
-    facebook: targobank
-    img: targobank.png
-    tfa: "No"
-    
+  url: https://www.targobank.de/kredit/ratenkredit.html
+  twitter: TARGOBANK
+  facebook: targobank
+  img: targobank.png
+  tfa: "No"
+
 - name: You Need a Budget
-    url: https://www.youneedabudget.com/
-    twitter: ynab
-    facebook: iYNAB
-    img: targobank.png
-    tfa: "No"
-    
+  url: https://www.youneedabudget.com/
+  twitter: ynab
+  facebook: iYNAB
+  img: targobank.png
+  tfa: "No"
+
 - name: Web-Budgetplaner
-    url: https://budgetplaner.beratungsdienst-guh.de/index.php
-    twitter: GeldundHaushalt
-    facebook: SparRatgeber
-    img: webbudgetplaner.png
-    tfa: "No"
-    
+  url: https://budgetplaner.beratungsdienst-guh.de/index.php
+  twitter: GeldundHaushalt
+  facebook: SparRatgeber
+  img: webbudgetplaner.png
+  tfa: "No"
+
 - name: Mint
-    url: https://www.mint.com/
-    twitter: mint
-    facebook: mint
-    img: mint.png
-    tfa: "No"
-    
+  url: https://www.mint.com/
+  twitter: mint
+  facebook: mint
+  img: mint.png
+  tfa: "No"
+
 - name: Count About
-    url: https://countabout.com/
-    twitter: Countabout
-    img: countabout.png
-    tfa: "No"
+  url: https://countabout.com/
+  twitter: Countabout
+  img: countabout.png
+  tfa: "No"
