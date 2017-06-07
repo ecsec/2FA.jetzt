@@ -1,4 +1,50 @@
 projects:
+  - name: FreeIPA
+    desc: |
+      FreeIPA, das zum Fedora gehört, ist mehr als nur ein System zur Verwaltung
+      von Zwei-Faktor-Komponenten. Es kombiniert mehrere Software-Komponenten
+      und liefert damit LDAP, Kerberos, DNS und vieles anderes unter einem Dach.
+      Im Bereich Zwei-Faktor ist es in der Lage, Zertifikate und Smartcards zu
+      verwalten. Als Einmal-Passwort-Token werden zeitbasierte TOTP-Token
+      unterstützt.
+    std: RADIUS
+    url: http://www.freeipa.org
+    img: freeipa.png
+
+  - name: LinOTP
+    desc: |
+      LinOTP ist ein reiner Zwei-Faktor-Authentifizierungsserver. Es bindet
+      bestehende Benutzerquellen an. Das heißt: Es lässt sich zu einem 
+      bestehenden LDAP/Active Directory-, SQL- und/oder 
+      SCIM-Benutzer-Verzeichnis installieren. Der modulare Aufbau erlaubt eine 
+      breite Unterstützung an diversen OTP-Token wie HOTP, TOTP, mOTP, SMS, 
+      Email, Yubikey, U2F, OCRA und dem proprietären Vasco-Algorithmus.
+    std: RADIUS, SAML
+    url: https://linotp.org/
+    img: LinOTP.png
+
+  - name: multiOTP
+    desc: |
+      multiOTP ist zum einen eine PHP-Klasse zur Implementierung von OTP, aber
+      auch ein eigenständiger Server. Es ist möglich, Benutzer aus einem Active
+      Directory zu synchronisieren. Die unterstützten Token-Typen sind HOTP,
+      TOTP, mOTP, SMS und Yubikey.
+    std: RADIUS
+    url: https://www.multiotp.net/
+    img: placeholder.png
+
+  - name: privacyIDEA
+    desc: |
+      privacyIDEA ist ein Fork von LinOTP und somit auch ein reiner
+      Zwei-Faktor-Authentifizierungsserver. Bestehende Benutzerquellen wie
+      LDAP/Active Directory, SQL oder SCIM lassen sich anbinden. Die
+      unterstützten Token-Typen sind HOTP, TOTP, mOTP, SMS, Email, Yubikey, U2F,
+      OCRA/TiQR. Außerdem können SSH-Keys und X.509-Zertifikate verwaltet
+      werden.
+    std: RADIUS, SAML
+    url: https://www.privacyidea.org/
+    img: privacyidea.png
+
   - name: SimpleSAMLphp
     desc: |
       SimpleSAMLphp ist ein in PHP geschriebenes Framework zur Authentisierung.
@@ -8,22 +54,6 @@ projects:
     url: https://simplesamlphp.org/
     img: simplesamlphp.jpeg
 
-  - name: privacyIDEA
-    desc: |
-      privacyIDEA ist ein modulares Authentisierungssystem, mit dem u.a.
-      Webseiten und -portale mit einem zusätzlichen zweiten Faktor abgesichert
-      werden können.
-    std: RADIUS, SAML
-    url: https://www.privacyidea.org/
-    img: privacyidea.png
-
-  - name: LinOTP
-    desc: |
-      LinOTP ist ein eine flexible OTP-Plattform für starke Authentisierung.
-    std: RADIUS, SAML
-    url: https://linotp.org/
-    img: LinOTP.png
-
   - name: Shibboleth
     desc: |
       Shibboleth ist ein Verfahren zur verteilten Authentifizierung und
@@ -32,3 +62,15 @@ projects:
     std: SAML
     url: https://shibboleth.net/products/service-provider.html
     img: shibboleth.png
+
+  - name: Yubikey Server
+    desc: |
+      Der Yubikey Validation Server lässt sich als eigenständiger
+      Authentifizierungsserver installieren. Er sendet bei der Authentisierung
+      die Token-ID mit. Daher kann die Authentifizierung erfolgen, ohne dass der
+      Token einem Benutzer zugeordnet sein muss. Im Zweifelsfall muss diese
+      Zuordnung dann allerdings in einer anderen Applikation implementiert
+      werden. Der Yubikey Validation Server unterstützt lediglich den Yubikey.
+    std: FIDO U2F
+    url: https://www.yubico.com/products/yubikey-hardware/
+    img: yubikey.png
