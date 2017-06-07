@@ -46,7 +46,7 @@
   title: Gesundheit
   icon: medkit
 
-- id: identity
+- id: identitaetsmanagement
   title: Identitätsmanagement
   icon: user
 
