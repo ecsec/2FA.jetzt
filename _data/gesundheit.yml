@@ -1,78 +1,79 @@
+websites:
 - name: new moove
-    url: https://www.newmoove.com/
-    twitter: newmoove
-    facebook: NewMoove
-    img: newmoove.png
-    tfa: "No"
+  url: https://www.newmoove.com/
+  twitter: newmoove
+  facebook: NewMoove
+  img: newmoove.png
+  tfa: "No"
        
 - name: Gymondo
-    url: https://www.gymondo.de/
-    twitter: Gymondo
-    facebook: gymondo
-    img: gymondo.png
-    tfa: "No"
+  url: https://www.gymondo.de/
+  twitter: Gymondo
+  facebook: gymondo
+  img: gymondo.png
+  tfa: "No"
     
 - name: Apotheken Umschau
-    url: http://www.apotheken-umschau.de/
-    twitter: AU_de
-    facebook: Apotheken.Umschau
-    img: au.png
-    tfa: "No"
+  url: http://www.apotheken-umschau.de/
+  twitter: AU_de
+  facebook: Apotheken.Umschau
+  img: au.png
+  tfa: "No"
     
 - name: Low Fett
-    url: https://www.lowfett.de/
-    twitter: LowFett
-    facebook: LowFett
-    img: lowfett.png
-    tfa: "No"
+  url: https://www.lowfett.de/
+  twitter: LowFett
+  facebook: LowFett
+  img: lowfett.png
+  tfa: "No"
     
 - name: Die Techniker
-    url: https://www.tk.de
-    twitter: dieTechniker
-    facebook: DieTechniker
-    img: dietechniker.png
-    tfa: "Yes"
-    eid: Yes
-    tan: Yes
+  url: https://www.tk.de
+  twitter: dieTechniker
+  facebook: DieTechniker
+  img: dietechniker.png
+  tfa: "Yes"
+  eid: Yes
+  tan: Yes
     
 - name: Onmeda
-    url: http://www.onmeda.de/
-    twitter: onmeda_de
-    facebook: onmeda
-    img: onmeda.png
-    tfa: "No"
+  url: http://www.onmeda.de/
+  twitter: onmeda_de
+  facebook: onmeda
+  img: onmeda.png
+  tfa: "No"
     
 - name: Doktor Online
-    url: http://www.dokteronline.com/de/
-    twitter: dokteronline_de
-    facebook: dokteronlineDE
-    img: doktoronline.png
-    tfa: "No"
+  url: http://www.dokteronline.com/de/
+  twitter: dokteronline_de
+  facebook: dokteronlineDE
+  img: doktoronline.png
+  tfa: "No"
     
 - name: ERGO Direkt
-    url: https://ergodirekt.de/de.html
-    twitter: ERGODirekt
-    facebook: ERGO.Direkt
-    img: ergo.png
-    tfa: "Yes"
-    eid: Yes
+  url: https://ergodirekt.de/de.html
+  twitter: ERGODirekt
+  facebook: ERGO.Direkt
+  img: ergo.png
+  tfa: "Yes"
+  eid: Yes
     
 - name: jameda
-    url: https://www.jameda.de/
-    twitter: jameda_de
-    facebook: jameda.de
-    img: jameda.png
-    tfa: "No"
+  url: https://www.jameda.de/
+  twitter: jameda_de
+  facebook: jameda.de
+  img: jameda.png
+  tfa: "No"
     
 - name: medizinonline
-    url: https://www.jameda.de/
-    twitter: jameda_de
-    facebook: jameda.de
-    img: jameda.png
-    tfa: "No"
+  url: https://www.jameda.de/
+  twitter: jameda_de
+  facebook: jameda.de
+  img: jameda.png
+  tfa: "No"
     
 - name: My Training
-    url: https://www.mytraining.de/
-    facebook: MyTraining.de
-    img: mytraining.png
-    tfa: "No"
+  url: https://www.mytraining.de/
+  facebook: MyTraining.de
+  img: mytraining.png
+  tfa: "No"
