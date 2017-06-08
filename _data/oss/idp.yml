@@ -7,7 +7,7 @@ projects:
       Im Bereich Zwei-Faktor ist es in der Lage, Zertifikate und Smartcards zu
       verwalten. Als Einmal-Passwort-Token werden zeitbasierte TOTP-Token
       unterstützt.
-    std: RADIUS
+    std: RADIUS, Kerberos
     url: http://www.freeipa.org
     img: freeipa.png
 
@@ -19,7 +19,7 @@ projects:
       SCIM-Benutzer-Verzeichnis installieren. Der modulare Aufbau erlaubt eine 
       breite Unterstützung an diversen OTP-Token wie HOTP, TOTP, mOTP, SMS, 
       Email, Yubikey, U2F, OCRA und dem proprietären Vasco-Algorithmus.
-    std: RADIUS, SAML
+    std: RADIUS, SAML, PAM
     url: https://linotp.org/
     img: LinOTP.png
 
@@ -40,8 +40,8 @@ projects:
       LDAP/Active Directory, SQL oder SCIM lassen sich anbinden. Die
       unterstützten Token-Typen sind HOTP, TOTP, mOTP, SMS, Email, Yubikey, U2F,
       OCRA/TiQR. Außerdem können SSH-Keys und X.509-Zertifikate verwaltet
-      werden.
-    std: RADIUS, SAML
+      werden. Es werden virtuelle Token-Typen wie ein 4-Augen-Token unterstützt.
+    std: RADIUS, SAML, PAM
     url: https://www.privacyidea.org/
     img: privacyidea.png
 

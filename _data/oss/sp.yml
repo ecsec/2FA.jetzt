@@ -21,7 +21,34 @@ projects:
       Shibboleth ist ein Verfahren zur verteilten Authentifizierung und
       Autorisierung für Webanwendungen und Webservices. Es kann sowohl als
       Service Provider als auch als Identity Provider eingesetzt werden. 
+
+      Im Rahmen des Shibboleth-Projekts ist OpenSAML verfügbar.
     std: SAML
     url: https://shibboleth.net/products/service-provider.html
     img: shibboleth.png
+
+  - name: OpenSAML
+    desc: |
+      Im Rahmen des Shibboleth Projekts bieten OpenSAML C++ und
+      Java Bibliotheken, um eine SAML SP in die eigene Anwednung zu 
+      integrieren.
+    std: SAML
+    url: https://wiki.shibboleth.net/confluence/display/OpenSAML/Home
+    img: opensaml.png
+
+  - name: pysaml2
+    desc: | 
+      Dies ist eine Python-Bibliothek, um SAML sowohl as SP als auch
+      als IdP in eigene Python-Applikationen zu integrieren.
+    std: SAML
+    url: https://github.com/rohe/pysaml2
+    img:
+
+  - name: lasso
+    desc: |
+      Die ist eine C-Bibliothek, um SAML sowohl asl SP als auch als 
+      IdP in eigene Applikationen zu integrieren.
+    std: SAML
+    url: http://lasso.entrouvert.org/
+    img: lasso.png
 
