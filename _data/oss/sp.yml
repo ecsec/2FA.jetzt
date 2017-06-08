@@ -35,3 +35,11 @@ projects:
     std: SAML
     url: https://wiki.shibboleth.net/confluence/display/OpenSAML/Home
     img: opensaml.png
+
+  - name: pysaml2
+    desc: | 
+      Dies ist eine Python-Bibliothek um SAML sowohl as SP als auch
+      als IdP in eigene Python-Applikationen zu integrieren.
+    std: SAML
+    url: https://github.com/rohe/pysaml2
+    img:
