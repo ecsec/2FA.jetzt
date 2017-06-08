@@ -38,8 +38,17 @@ projects:
 
   - name: pysaml2
     desc: | 
-      Dies ist eine Python-Bibliothek um SAML sowohl as SP als auch
+      Dies ist eine Python-Bibliothek, um SAML sowohl as SP als auch
       als IdP in eigene Python-Applikationen zu integrieren.
     std: SAML
     url: https://github.com/rohe/pysaml2
     img:
+
+  - name: lasso
+    desc: |
+      Die ist eine C-Bibliothek, um SAML sowohl asl SP als auch als 
+      IdP in eigene Applikationen zu integrieren.
+    std: SAML
+    url: http://lasso.entrouvert.org/
+    img: lasso.png
+
