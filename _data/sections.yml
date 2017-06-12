@@ -50,11 +50,11 @@
   title: Identitätsmanagement
   icon: user
 
-- id: iot
+- id: internetderdinge
   title: Internet der Dinge
   icon: cubes
 
-- id: investing
+- id: investment
   title: Investment
   icon: line chart
 

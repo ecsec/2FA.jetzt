@@ -5,41 +5,41 @@ websites:
   facebook: marketscom
   img: marketscom.png
   tfa: "No"
-  
+
 - name: ayondo
   url: https://www.ayondo.com/de/
   twitter: ayondohq
   facebook: ayondo.de
   img: ayondohq.png
   tfa: "No"
-  
+
 - name: Exporo
   url: https://exporo.de/
   twitter: exporo2014
   facebook: exporo
   img: exporo.png
   tfa: "No"
-  
+
 - name: Union Investment
   url: https://www.union-investment.de/startseite
   twitter: unioninvestment
   facebook: UnionInvestment.Privatkunden
   img: unioninvestment.png
   tfa: "No"
-  
+
 - name: auxmoney
   url: https://www.auxmoney.com/
   twitter: auxmoney
   facebook: auxmoney
   img: auxmoney.png
   tfa: "No"
-  
+
 - name: Wiwin
   url: https://www.wiwin.de/
   email_address: info@wiwin.de
   img: wiwin.png
   tfa: "No"
-  
+
 - name: eToro
   url: https://www.etoro.com/
   twitter: etoro
@@ -53,13 +53,13 @@ websites:
   facebook: xtbde
   img: xtb.png
   tfa: "No"
-  
+
 - name: Capital One Investing
   url: https://www.capitaloneinvesting.com/a/main
   twitter: COFInvesting
   img: capitaloneinvestment.png
   tfa: "No"
-  
+
 - name: nutmeg
   url: https://www.nutmeg.com/
   twitter: thenutmegteam

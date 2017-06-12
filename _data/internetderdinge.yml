@@ -5,60 +5,60 @@ websites:
   facebook: ibmwatson
   img: ibmwatson.png
   tfa: "No"
-    
+
 - name: Thing Speak
   url: https://thingspeak.com/
   twitter: thingspeak
   facebook: thingspeak
   img: thingspeak.png
   tfa: "No"
-    
+
 - name: openremote
   url: http://www.openremote.com/
   twitter: openremotepro
   facebook: openremote
   img: openremote.png
   tfa: "No"
-    
+
 - name: ioBridge
   url: https://www.iobridge.com/
   twitter: iobridge
   img: openremote.png
   tfa: "No"  
-    
+
 - name: Zatar
   url: http://www.zatar.com/
   twitter: Zatar_IoT
   facebook: zatarians
   img: zatar.png
   tfa: "No"
-    
+
 - name: Thingworx
   url: https://www.thingworx.com/
   twitter: ThingWorx
   img: thingworx.png
   tfa: "No"
-    
+
 - name: Evrythng
   url: https://evrythng.com/
   twitter: EVRYTHNG
   img: evrythng.png
   tfa: "No"
-   
+
 - name: Exosite
   url: https://exosite.com/
   twitter: exosite
   facebook: exosite
   img: exosite.png
   tfa: "No"
-    
+
 - name: Carriots
   url: https://www.carriots.com/
   twitter: Carriots
   facebook: Carriots
   img: carriots.png
   tfa: "No"
-  
+
 - name: GroveStreams
   url: https://grovestreams.com/
   twitter: grovestreams
