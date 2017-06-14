@@ -1,0 +1,81 @@
+websites:
+- name: Bitbucket
+  url: https://bitbucket.org/
+  twitter: Bitbucket
+  facebook: Bitbucket
+  img: bitbucket.png
+  tfa: "Yes"
+  signatur: Yes
+  tan: Yes
+  smartphone: Yes
+
+- name: GitHub
+  url: https://github.com/
+  twitter: github
+  facebook: GitHub
+  img: guthub.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  
+- name: GitLab
+  url: https://about.gitlab.com/
+  twitter: gitlab
+  facebook: gitlab
+  img: gitlab.png
+  tfa: "Yes"
+  smartphone: Yes
+  sonstige: Yes
+  
+- name: launchpad
+  url: https://launchpad.net/
+  facebook: ubuntuone
+  img: launchpad.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  sonstige: Yes
+  
+- name: Koding
+  url: https://www.koding.com/
+  twitter: koding
+  facebook: koding
+  img: koding.png
+  tfa: "No"
+  
+- name: unity
+  url: https://unity3d.com/de/
+  twitter: unity3d
+  facebook: unity3d
+  img: unity3d.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Visual Studio Online
+  url: https://www.visualstudio.com/de/
+  twitter: VisualStudio
+  facebook: visualstudio.de
+  img: visualstudio.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Jet Brains
+  url: https://www.jetbrains.com/
+  twitter: jetbrains
+  facebook: JetBrains
+  img: jetbrains.png
+  tfa: "No"
+  
+- name: Docker
+  url: https://www.docker.com/
+  twitter: docker
+  facebook: docker.run
+  img: docker.png
+  tfa: "No"
+  
+- name: Airbrake
+  url: https://airbrake.io/
+  twitter: airbrake
+  facebook: airbrake.io
+  img: airbrake.png
+  tfa: "No"
