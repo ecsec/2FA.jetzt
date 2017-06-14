@@ -1,0 +1,68 @@
+websites:
+- name: Schrader
+  url: https://www.paul-schrader.de/
+  twitter: Schrader_1921
+  facebook: Schrader.Genussversand
+  img: schrader.png
+  tfa: "No"
+  
+- name: Gegessen wird immer
+  url: https://gegessenwirdimmer.de/
+  facebook: Gegessenwirdimmer2015
+  img: gegessenwirdimmer.png
+  tfa: "No"
+  
+- name: Lidl
+  url: https://www.lidl.de/
+  twitter: lidl
+  facebook: lidl
+  img: lidl.png
+  tfa: "No"
+  
+- name: Edeka 24
+  url: https://www.edeka24.de/
+  email_address:: info@edeka24.de
+  img: edeka24.png
+  tfa: "No"
+  
+- name: Rewe Shop
+  url: https://shop.rewe.de/
+  twitter: REWE_Supermarkt
+  facebook: Rewe
+  img: rewe.png
+  tfa: "No"
+  
+- name: real Onlineshop
+  url: https://www.real.de/lebensmittelshop/
+  twitter: realMarkt
+  facebook: real
+  img: real.png
+  tfa: "No"
+  
+- name: Amazon Fresh
+  url: https://www.amazon.de/fresh
+  twitter: AmazonFresh
+  facebook: AmazonFresh
+  img: amazonfresh.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  
+- name: Tellofix
+  url: http://www.tellofix.de/
+  email_address: info@oscho.de
+  img: tellofix.png
+  tfa: "No"
+  
+- name: Kochhaus
+  url: https://www.kochhaus.de/
+  email_address: info@kochhaus.de
+  img: kochhaus.png
+  tfa: "No"
+  
+- name: All you need fresh Supermarkt
+  url: https://www.allyouneedfresh.de/
+  twitter: allyouneedfresh
+  facebook: allyouneedfresh
+  img: allyouneedfresh.png
+  tfa: "No"
