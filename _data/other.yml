@@ -3,14 +3,14 @@ websites:
   url: https://www.wikipedia.org/
   twitter: Wikipedia
   facebook: wikipedia
-  img: wikipedia.png
+  img: wikipedia.jpg
   tfa: "No"
   
 - name: Pocket
   url: https://getpocket.com/
   twitter: pocket
   facebook: pocket
-  img: pocket.png
+  img: pocket.jpg
   tfa: "No"
   
 - name: Pastebin
@@ -24,35 +24,35 @@ websites:
   url: https://www.monster.com/
   twitter: Monster
   facebook: MonsterDE
-  img: monster.png
+  img: monster.jpg
   tfa: "No"
   
 - name: IEEE
   url: https://www.ieee.org/index.html
   twitter: IEEEorg
   facebook: IEEE.org
-  img: ieee.png
+  img: ieee.jpeg
   tfa: "No"
   
 - name: Airbnb
   url: https://www.airbnb.de/
   twitter: AirbnbDeutschland
   facebook: airbnb_de
-  img: airbnb.png
+  img: airbnb.jpg
   tfa: "No"
   
 - name: Adobe ID
   url: https://accounts.adobe.com/
   twitter: Adobe
   facebook: Adobe
-  img: adobe.png
+  img: adobe.jpg
   tfa: "No"
   
 - name: Kickstarter
   url: https://www.kickstarter.com/
   twitter: kickstarter
   facebook: Kickstarter
-  img: kickstarter.png
+  img: kickstarter.jpg
   tfa: "Yes"
   tan: Yes
   smartphone: Yes
@@ -61,7 +61,7 @@ websites:
   url: https://www.autodesk.com/
   twitter: autodesk
   facebook: AutodeskDeutschland
-  img: autodesk.png
+  img: autodesk.jpg
   tfa: "Yes"
   tan: Yes
   
@@ -69,6 +69,6 @@ websites:
   url: https://products.office.com/en-US
   twitter: Office
   facebook: OfficeDeutschland
-  img: office.png
+  img: office.jpg
   tfa: "Yes"
   tan: Yes
