@@ -1,0 +1,74 @@
+websites:
+- name: Wikipedia
+  url: https://www.wikipedia.org/
+  twitter: Wikipedia
+  facebook: wikipedia
+  img: wikipedia.png
+  tfa: "No"
+  
+- name: Pocket
+  url: https://getpocket.com/
+  twitter: pocket
+  facebook: pocket
+  img: pocket.png
+  tfa: "No"
+  
+- name: Pastebin
+  url: https://pastebin.com/
+  twitter: pastebin
+  facebook: pastebin
+  img: pastebin.png
+  tfa: "No"
+  
+- name: Monster
+  url: https://www.monster.com/
+  twitter: Monster
+  facebook: MonsterDE
+  img: monster.png
+  tfa: "No"
+  
+- name: IEEE
+  url: https://www.ieee.org/index.html
+  twitter: IEEEorg
+  facebook: IEEE.org
+  img: ieee.png
+  tfa: "No"
+  
+- name: Airbnb
+  url: https://www.airbnb.de/
+  twitter: AirbnbDeutschland
+  facebook: airbnb_de
+  img: airbnb.png
+  tfa: "No"
+  
+- name: Adobe ID
+  url: https://accounts.adobe.com/
+  twitter: Adobe
+  facebook: Adobe
+  img: adobe.png
+  tfa: "No"
+  
+- name: Kickstarter
+  url: https://www.kickstarter.com/
+  twitter: kickstarter
+  facebook: Kickstarter
+  img: kickstarter.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  
+- name: Autodesk
+  url: https://www.autodesk.com/
+  twitter: autodesk
+  facebook: AutodeskDeutschland
+  img: autodesk.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Office 365
+  url: https://products.office.com/en-US
+  twitter: Office
+  facebook: OfficeDeutschland
+  img: office.png
+  tfa: "Yes"
+  tan: Yes

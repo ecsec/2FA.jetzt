@@ -1,0 +1,101 @@
+websites:
+- name: Cryptonator
+  url: https://de.cryptonator.com/
+  twitter: cryptonatorcom
+  facebook: cryptonator
+  img: cryptonator.png
+  tfa: "Yes"
+  smartphone: Yes
+  
+- name: Bitcoin.de
+  url: https://www.bitcoin.de/
+  twitter: bitcoin_de
+  facebook: bitcoin.de
+  img: bitcoinde.png
+  tfa: "Yes"
+  smartphone: Yes
+  
+- name: Coinbase
+  url: https://www.coinbase.com/
+  twitter: coinbase
+  facebook: Coinbase
+  img: coinbase.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: BitBay
+  url: https://bitbay.net/
+  twitter: bitbaypl
+  facebook: BitcoinBuyOrSell
+  img: bitbaypl.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  
+- name: bitlish
+  url: https://bitlish.com/
+  twitter: bitlish_com
+  facebook: only.bitlish
+  img: bitlish.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  sonstige: Yes
+  
+- name: BitGo
+  url: https://bitbay.net/
+  twitter: BitGo
+  facebook: BitGo
+  img: bitgo.png
+  tfa: "Yes"
+  smartphone: Yes
+  sonstige: Yes
+  
+- name: Blockchain
+  url: https://blockchain.info/
+  twitter: blockchain
+  facebook: blockchain
+  img: blockchain.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  
+- name: Coinapult
+  url: https://coinapult.com/
+  twitter: Coinapult
+  facebook: Coinapult
+  img: coinapult.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Coinapult
+  url: https://coinapult.com/
+  twitter: Coinapult
+  facebook: Coinapult
+  img: coinapult.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Xapo
+  url: https://xapo.com/
+  twitter: xapo
+  facebook: xapoapp
+  img: xapo.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Xapo
+  url: https://xapo.com/
+  twitter: xapo
+  facebook: xapoapp
+  img: xapo.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Kraken
+  url: https://www.kraken.com/
+  twitter: krakenfx
+  facebook: KrakenFX
+  img: krakenfx.png
+  tfa: "Yes"
+  smartphone: Yes

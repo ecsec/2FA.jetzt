@@ -1,0 +1,76 @@
+websites:
+- name: Skype
+  url: https://www.skype.com/de/
+  twitter: Skype
+  facebook: SkypeGer
+  img: skype.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Discord
+  url: https://discordapp.com/
+  twitter: discordapp
+  facebook: discordapp
+  img: discord.png
+  tfa: "Yes"
+  sonstige: Yes
+  
+- name: Telegram
+  url: https://telegram.org/
+  twitter: telegram
+  facebook: Telegram.org
+  img: telegram.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Doogle
+  url: https://beta.doodle.com/de/
+  twitter: doodletweet
+  facebook: DoodleAG
+  img: doodle.png
+  tfa: "No"
+
+- name: Yahoo Messenger
+  url: https://messenger.yahoo.com/
+  twitter: YahooCare
+  facebook: yahoo
+  img: yahoo.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: WhatsApp
+  url: https://www.whatsapp.com/
+  twitter: WhatsApp
+  facebook: WhatsApp
+  img: whatsapp.png
+  tfa: "Yes"
+  sonstige: Yes
+  
+- name: HipChat
+  url: https://www.hipchat.com/
+  twitter: hipchat
+  facebook: HipChat
+  img: hipchat.png
+  tfa: "No"
+ 
+- name: slack
+  url: https://slack.com/
+  twitter: SlackHQ
+  img: slack.png
+  tfa: "Yes"
+  tan: Yes
+  smartphone: Yes
+  
+- name: IRCCloud
+  url: https://twitter.com/irccloud
+  twitter: irccloud
+  facebook: irccloud
+  img: irccloud.png
+  tfa: "No"
+   
+- name: Fleep
+  url: https://fleep.io/
+  twitter: fleepio
+  facebook: fleepio
+  img: fleep.png
+  tfa: "No"

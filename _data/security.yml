@@ -1,0 +1,73 @@
+websites:
+- name: VPN Unlimited
+  url: https://www.vpnunlimitedapp.com/en
+  twitter: vpnunlimited
+  facebook: vpnunlimitedapp
+  img: vpnunlimited.png
+  tfa: "No"
+
+- name: TunnelBear
+  url: https://www.tunnelbear.com/
+  twitter: theTunnelBear
+  facebook: tunnelbear
+  img: tunnelbear.png
+  tfa: "No"
+
+- name: CyberGhost
+  url: https://www.cyberghostvpn.com/de_de
+  twitter: cyberghost_DE
+  facebook: cyberghostvpn
+  img: cyberghost.png
+  tfa: "No"
+  
+- name: SSL Trust
+  url: https://www.ssltrust.com.au/
+  twitter: SSLTrust
+  facebook: ssltrust
+  img: ssltrust.png
+  tfa: "No"
+  
+- name: Entrust
+  url: https://www.ssltrust.com.au/
+  twitter: entrustdatacard
+  facebook: EntrustDatacard
+  img: entrust.png
+  tfa: "Yes"
+  eid: Yes
+  sonstige: Yes
+  
+- name: GeoTrust
+  url: https://www.geotrust.com/
+  twitter: GeoTrust
+  facebook: geotrust
+  img: geotrust.png
+  tfa: "Yes"
+  sonstige: Yes
+  
+- name: Webroot
+  url: https://www.webroot.com/de/de/
+  twitter: Webroot
+  facebook: Webroot
+  img: webroot.png
+  tfa: "No"
+  
+- name: detectify
+  url: https://detectify.com/
+  twitter: detectify
+  facebook: detectify
+  img: detectify.png
+  tfa: "No"
+  
+- name: AirVPN
+  url: https://airvpn.org/
+  twitter: airvpn
+  facebook: airvpn.org
+  img: airvpn.png
+  tfa: "No"
+  
+- name: HideIP VPN
+  url: https://www.hideipvpn.com/
+  twitter: hideipvpn
+  facebook: hideipvpn
+  img: hideipvpn.png
+  tfa: "No"
