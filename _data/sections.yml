@@ -46,10 +46,6 @@
   title: Gesundheit
   icon: medkit
 
-- id: identitaetsmanagement
-  title: Identitätsmanagement
-  icon: user
-
 - id: internetderdinge
   title: Internet der Dinge
   icon: cubes
