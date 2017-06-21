@@ -110,7 +110,7 @@ websites:
     url: https://www.lvm.de/wps/portal/lvm/privatkunden/?rf=/
     twitter: lvmversicherung
     facebook: lvmversicherung
-    img: huk24.png
+    img: lvm-versicherung.png
     tfa: "Yes"
     eid: Yes
   - name: Munich Re
