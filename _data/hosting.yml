@@ -1,0 +1,69 @@
+websites:
+- name: goneo
+  url: https://www.goneo.de/
+  twitter: goneo
+  facebook: goneo
+  img: goneo.png
+  tfa: "No"
+  
+- name: 1 und 1
+  url: https://hosting.1und1.de/webhosting
+  twitter: 1und1hilfe
+  facebook: 1und1Hosting
+  img: einsundeins.png
+  tfa: "No"
+  
+- name: Strato
+  url: https://www.strato.de/
+  twitter: STRATO_ag
+  facebook: strato
+  img: strato.png
+  tfa: "No"
+  
+- name: Dogado
+  url: https://www.dogado.de/
+  twitter: dogado
+  facebook: dogado
+  img: dogado.png
+  tfa: "No"
+  
+- name: manitu
+  url: https://www.manitu.de/webhosting/
+  twitter: manitu_de
+  facebook: manitu.de
+  img: manitu.png
+  tfa: "No"
+  
+- name: webgo
+  url: https://www.webgo.de/
+  twitter: webgo_de
+  facebook: webgo.de
+  img: webgo.png
+  tfa: "No"
+  
+- name: Host Europe
+  url: https://www.hosteurope.de/WebHosting/
+  twitter: Hosteurope
+  img: hosteurope.png
+  tfa: "No"
+  
+- name: one.com
+  url: https://www.one.com/de/
+  twitter: onecom
+  facebook: Onecom
+  img: onecom.png
+  tfa: "No"
+  
+- name: 1blu
+  url: https://www.1blu.de/webhosting/
+  twitter: 1blu_AG
+  facebook: 1bluAG
+  img: einsblu.png
+  tfa: "No"
+  
+- name: Checkdomain
+  url: https://www.checkdomain.de/hosting/
+  twitter: checkdomainde
+  facebook: checkdomain
+  img: checkdomainde.png
+  tfa: "No"
