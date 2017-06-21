@@ -1,10 +1,10 @@
 websites:
-- name: ADVA Optical Networking
-  url: http://www.advaoptical.com
-  twitter: ADVAOpticalNews
-  facebook: ADVAOpticalNetworking
-  img: ADVALogo.png
-  tfa: "No" 
+- name: BMWi Trusted Cloud
+  url: https://www.trusted-cloud.de/
+  email_address: info@trusted-cloud.de
+  img: trusted-cloud.png
+  tfa: "Yes" 
+  eid: Yes
 
 - name: Marktplatz Mittelstand
   url: http://www.marktplatz-mittelstand.de/b2b
@@ -240,13 +240,6 @@ websites:
 
 - name: SwissSign
   url: https://www.swisssign.com/de/
-  img: SwissSign.jpg
-  twitter: swisssign
-  facebook: swisssign/
-  tfa: "No"
-
-- name: VIVAI
-  url: https://www.vivai.de/startseite/
   img: SwissSign.jpg
   twitter: swisssign
   facebook: swisssign/

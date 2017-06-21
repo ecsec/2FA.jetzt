@@ -1,4 +1,11 @@
 websites:
+- name: ADVA Optical Networking
+  url: http://www.advaoptical.com
+  twitter: ADVAOpticalNews
+  facebook: ADVAOpticalNetworking
+  img: ADVALogo.png
+  tfa: "No" 
+
 - name: IBM Watson
   url: https://www.ibm.com/watson/
   twitter: IBMWatson
