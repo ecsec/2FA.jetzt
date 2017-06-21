@@ -1,0 +1,70 @@
+websites:
+- name: Uber
+  url: https://www.uber.com/de/
+  twitter: uber
+  facebook: UberDeutschland
+  img: uber.png
+  tfa: "No"
+  
+- name: Lufthansa
+  url: http://www.lufthansa.com/de/de/Homepage
+  twitter: Lufthansa_DE
+  facebook: LufthansaDEU
+  img: lufthansa.png
+  tfa: "No"
+  
+- name: Deutsche Bahn
+  url: https://www.bahn.de/p/view/index.shtml
+  twitter: db_bahn
+  facebook: DBPersonenverkehr
+  img: db.png
+  tfa: "No"
+  
+- name: Delta
+  url: https://de.delta.com/
+  twitter: delta
+  facebook: delta
+  img: delta.png
+  tfa: "No"
+  
+- name: Air Berlin
+  url: https://www.airberlin.com/
+  twitter: airberlin
+  facebook: airberlin
+  img: airberlin.png
+  tfa: "No"
+  
+- name: British Airways
+  url: https://www.britishairways.com/travel/home/public/de_de
+  twitter: British_Airways
+  facebook: britishairways
+  img: britishairways.png
+  tfa: "No"
+  
+- name: Air France
+  url: http://www.airfrance.de/DE/de/common/home/Fluege/Flugtickets.do
+  twitter: AirFranceDE
+  facebook: airfrance
+  img: airfrance.png
+  tfa: "No"
+  
+- name: Ryanair
+  url: https://www.ryanair.com/de/de/
+  twitter: Ryanair
+  facebook: ryanair
+  img: ryanair.png
+  tfa: "No"
+  
+- name: easyjet
+  url: https://www.easyjet.com/de
+  twitter: easyJet_DE
+  facebook: easyJetDeutschland
+  img: easyjet.png
+  tfa: "No"
+  
+- name: Flixbus
+  url: https://www.flixbus.de/
+  twitter: FlixBus
+  facebook: FlixBusDE
+  img: flixbus.png
+  tfa: "No"
