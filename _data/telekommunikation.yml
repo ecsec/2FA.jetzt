@@ -1,0 +1,71 @@
+websites:
+- name: sipgate team
+  url: https://www.sipgateteam.de/
+  twitter: sipgatede
+  facebook: sipgate
+  img: sipgate.png
+  tfa: "No"
+  
+- name: fonial
+  url: https://www.fonial.de/
+  twitter: fonialgmbh
+  facebook: fonialgmbh
+  img: fonial.png
+  tfa: "No"
+  
+- name: Viber
+  url: https://www.viber.com/de/
+  twitter: viber
+  facebook: viber
+  img: viber.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Placetel
+  url: https://www.placetel.de/
+  twitter: placetel
+  facebook: placetel
+  img: placetel.png
+  tfa: "Yes"
+  smartphone: Yes
+  
+- name: Equada
+  url: https://www.equada.de/
+  twitter: equada_de
+  facebook: equada.de
+  img: equada.png
+  tfa: "No"
+  
+- name: SIPup
+  url: http://www.sipup.eu/
+  twitter: sipup_eu
+  facebook: SIPup.eu
+  img: sipup.png
+  tfa: "No"
+  
+- name: MySIPonline
+  url: https://www.mysiponline.com/
+  twitter: MySIPonline
+  facebook: mysiponline
+  img: mysiponline.png
+  tfa: "No"
+  
+- name: Pascom
+  url: https://www.pascom.net/de/mobydick-voip/
+  twitter: pascom_net
+  facebook: pascom.net
+  img: pascom.png
+  tfa: "No"
+  
+- name: Telegrafon
+  url: https://www.telegra-fon.de/
+  email_address: info@telegra-fon.de
+  img: telegrafon.png
+  tfa: "No"
+  
+- name: peoplefone
+  url: https://www.peoplefone.de/de/
+  twitter: peoplefone
+  facebook: peoplefone.gmbh
+  img: peoplefone.png
+  tfa: "No"
