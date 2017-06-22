@@ -1,0 +1,74 @@
+websites:
+- name: Soundcloud
+  url: https://soundcloud.com/
+  twitter: SoundCloud
+  facebook: SoundCloud
+  img: soundcloud.png
+  tfa: "No"
+  
+- name: Spotify
+  url: https://www.spotify.com/de/
+  twitter: spotify
+  facebook: SpotifyDeutschland
+  img: spotify.png
+  tfa: "No"
+  
+- name: Netflix
+  url: https://www.netflix.com/de/
+  twitter: netflix
+  facebook: NetflixDACH
+  img: netflix.png
+  tfa: "No"
+  
+- name: Crunchyroll
+  url: http://www.crunchyroll.com/
+  twitter: Crunchyroll
+  facebook: crunchyroll.de
+  img: crunchyroll.png
+  tfa: "No"
+  
+- name: YouTube
+  url: https://www.youtube.com/
+  twitter: YouTube
+  facebook: youtube
+  img: youtube.png
+  tfa: "Yes"
+  tan: Yes
+
+- name: Twitch
+  url: https://www.twitch.tv/
+  twitter: TwitchSupport
+  facebook: TwitchDE
+  img: twitch.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Deezer
+  url: https://www.deezer.com/de/
+  twitter: Deezer
+  facebook: DeezerDeutschland
+  img: deezer.png
+  tfa: "No"
+
+- name: Smashcast
+  url: https://www.smashcast.tv/
+  twitter: SmashcastDE
+  facebook: Smashcast
+  img: smashcast.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Google Play
+  url: https://play.google.com/store
+  twitter: GooglePlay
+  facebook: GooglePlayDeutschland
+  img: googleplay.png
+  tfa: "Yes"
+  tan: Yes
+  
+- name: Tidal
+  url: https://play.google.com/store
+  twitter: TIDALHiFi
+  facebook: TIDALDeutschland
+  img: tidal.png
+  tfa: "No"
