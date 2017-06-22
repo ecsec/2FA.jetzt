@@ -1,174 +1,202 @@
 websites:
-  - name: Allianz (Kunden Portal)
-    url: https://meine.allianz.de/
-    twitter: Allianz
-    facebook: allianz
-    img: allianz.png
-    tfa: "Yes"
-    eid: Yes
-  - name: Allianz (Makler Portal)
-    url: https://makler.allianz.de/
-    twitter: Allianz
-    facebook: allianz
-    img: allianz.png
-    tfa: "Yes"
-    eid: Yes
-  - name: Alte Leipziger-Hallersche Konzern
-    url: https://www.alte-leipziger.de 
-    email_address: service@alte-leipziger.de
-    img: leipzig-hallesche.png
-    tfa: "No"		
-  - name: AXA
-    url: https://www.axa.de/
-    facebook: AXA.de
-    twitter: vkb_presse
-    img: axa.png
-    tfa: "No"	
-  - name: CosmosDirekt 
-    url: https://www.cosmosdirekt.de/
-    twitter: cosmosdirekt
-    facebook: cosmosdirekt
-    img: cosmosdirekt.png
-    tfa: "Yes"
-    eid: Yes
-  - name: DKV Deutsche Krankenversicherung
-    url: https://www.dkv.com/
-    email_address: service@dkv.com
-    img: dkv.png
-    tfa: "No"		
-  - name: ERGO Direkt 
-    url: https://ergodirekt.de/de/persoenlicherbereich.html#login
-    twitter: ergodirekt
-    facebook: ERGO.Direkt
-    img: ergodirekt.png
-    tfa: "Yes"
-    eid: Yes
-    doc: https://ergodirekt.de/de/persoenlicherbereich.html#eIdNpaStart-Auth
-  - name: ERGO Kundenportal 
-    url: https://kundenlogin.ergo.de/vpn/usr_pwd.html
-    twitter: ergodeutschland
-    facebook: ERGO.Deutschland
-    img: ergo.png
-    tfa: "No"
-  - name: Generali (Außendienstportal)
-    url: https://adnet.generali.de 
-    facebook: GeneraliVersicherungen
-    twitter: generalivers
-    img: generali.png
-    tfa: "No" 
-  - name: Generali (Kundenportal, AT)
-    url: https://kundenportal.generali.at
-    facebook: GeneraliVersicherungen
-    twitter: generalivers
-    img: generali.png
-    tfa: "No" 
-  - name: Generali (Vertriebsportal)
-    url: https://maklernet.generali.de 
-    facebook: GeneraliVersicherungen
-    twitter: generalivers
-    img: generali.png
-    tfa: "No"
-  - name: Gothaer
-    url: http://www.gothaer.de
-    twitter: gothaer
-    facebook: Gothaer
-    img: Gothaer.png
-    tfa: "No"	
-  - name: HDI (Internet Kundenkonto)
-    url: https://mein.hdi.de/gerport/center_kunde/kc1.jsp
-    twitter: HDI_Gerling
-    img: hdi.png 
-    tfa: "No" 
-  - name: HDI (Kundenportal KFZ-Versicherung)
-    url: https://www.hdi.de/mein-hdi/login
-    twitter: HDI_Gerling
-    img: hdi.png 
-    tfa: "No" 
-  - name: HDI (Risk Consulting)
-    url: https://hrc.hdi.global/pub/de/forms/login.jsp
-    img: hdi.png 
-    tfa: "No" 
-  - name: HDI (VermittlerPortal)
-    url: https://vertriebsservice.hdi-gerling.de/content/public/de/common/index.html
-    twitter: HDI_Gerling
-    img: hdi.png 
-    tfa: "No" 
-  - name: HUK24 
-    url: https://www.huk24.de/
-    twitter: HUK
-    facebook: HUKCOBURG
-    img: huk24.png
-    tfa: "Yes"
-    eid: Yes
-  - name: HUK Coburg 
-    url: https://www.huk.de/login.do#
-    twitter: HUK
-    facebook: HUKCOBURG
-    img: huk.jpg
-    tfa: "No"
-  - name: LVM Versicherung 
-    url: https://www.lvm.de/wps/portal/lvm/privatkunden/?rf=/
-    twitter: lvmversicherung
-    facebook: lvmversicherung
-    img: lvm-versicherung.png
-    tfa: "Yes"
-    eid: Yes
-  - name: Munich Re
-    url: https://register.munichre.com/login/connect/
-    facebook: munichre
-    twitter: munichre
-    img: munichre.png
-    tfa: "No"
-  - name: Nürnberger Versicherungsgruppe
-    url: https://www.nuernberger.de
-    twitter: nuernberger
-    facebook: nuernberger
-    img: nuernberger.png
-    tfa: "No"		
-  - name: R+V 24 (Vertragscenter)
-    url: https://www.rv24.de/online/login.xhtml	
-    twitter: ruv24_de
-    facebook: rv24.de
-    img: rv24.png
-    tfa: "No"	
-  - name: R+V (Kreditportal)
-    url: https://kredit.ruv.de/kredit/login.jsp 
-    twitter: ruv24_de
-    facebook: rv24.de
-    img: rv24.png
-    tfa: "No"	
-  - name: R+V (Maklerportal)
-    url: https://online.ruv.de/makler/login.jsp 
-    twitter: ruv24_de
-    facebook: rv24.de
-    img: rv24.png
-    tfa: "No"	
-  - name: Signal Iduna
-    url: https://www.signal-iduna.de/
-    facebook: signaliduna
-    img: signal-iduna.jpg
-    tfa: "No"		
-  - name: Sparkassen Versicherung
-    url: https://www.sparkassenversicherung.de/content/privatkunden/service/daten/riester-zulagen/index.html
-    email_address: service@sparkassenversicherung.de 
-    img: sv.jpg
-    tfa: "No"	
-  - name: Talanx 
-    url: https://trb.talanx.com/index.php?id=25
-    twitter: talanx
-    img: talanx.png
-    tfa: "No"
-  - name: Versicherungskammer Bayern
-    url: https://www.vkb.de
-    facebook: versicherungskammer.bayern
-    twitter: vkb_presse
-    img: vkb.png
-    tfa: "No"	
-  - name: Württembergische Versicherungen
-    url: https://www.wuerttembergische.de
-    twitter: wundw
-    facebook: wundw
-    img: wuerttembergische.jpg
-    tfa: "Yes"
-    tan: Yes
-    doc: https://www.wuestenrotdirect.de/de/gesammelte-faq.html#a1712801
+- name: Allianz (Kunden Portal)
+  url: https://meine.allianz.de/
+  twitter: Allianz
+  facebook: allianz
+  img: allianz.png
+  tfa: "Yes"
+  eid: Yes
+
+- name: Allianz (Makler Portal)
+  url: https://makler.allianz.de/
+  twitter: Allianz
+  facebook: allianz
+  img: allianz.png
+  tfa: "Yes"
+  eid: Yes
+
+- name: Alte Leipziger-Hallersche Konzern
+  url: https://www.alte-leipziger.de 
+  email_address: service@alte-leipziger.de
+  img: leipzig-hallesche.png
+  tfa: "No"
+
+- name: AXA
+  url: https://www.axa.de/
+  facebook: AXA.de
+  twitter: vkb_presse
+  img: axa.png
+  tfa: "No"
+
+- name: CosmosDirekt 
+  url: https://www.cosmosdirekt.de/
+  twitter: cosmosdirekt
+  facebook: cosmosdirekt
+  img: cosmosdirekt.png
+  tfa: "Yes"
+  eid: Yes
+
+- name: DKV Deutsche Krankenversicherung
+  url: https://www.dkv.com/
+  email_address: service@dkv.com
+  img: dkv.png
+  tfa: "No"
+
+- name: ERGO Direkt 
+  url: https://ergodirekt.de/de/persoenlicherbereich.html#login
+  twitter: ergodirekt
+  facebook: ERGO.Direkt
+  img: ergodirekt.png
+  tfa: "Yes"
+  eid: Yes
+  doc: https://ergodirekt.de/de/persoenlicherbereich.html#eIdNpaStart-Auth
+
+- name: ERGO Kundenportal 
+  url: https://kundenlogin.ergo.de/vpn/usr_pwd.html
+  twitter: ergodeutschland
+  facebook: ERGO.Deutschland
+  img: ergo.png
+  tfa: "No"
+
+- name: Generali (Außendienstportal)
+  url: https://adnet.generali.de 
+  facebook: GeneraliVersicherungen
+  twitter: generalivers
+  img: generali.png
+  tfa: "No" 
+
+- name: Generali (Kundenportal, AT)
+  url: https://kundenportal.generali.at
+  facebook: GeneraliVersicherungen
+  twitter: generalivers
+  img: generali.png
+  tfa: "No" 
+
+- name: Generali (Vertriebsportal)
+  url: https://maklernet.generali.de 
+  facebook: GeneraliVersicherungen
+  twitter: generalivers
+  img: generali.png
+  tfa: "No"
+
+- name: Gothaer
+  url: http://www.gothaer.de
+  twitter: gothaer
+  facebook: Gothaer
+  img: Gothaer.png
+  tfa: "No"
+
+- name: HDI (Internet Kundenkonto)
+  url: https://mein.hdi.de/gerport/center_kunde/kc1.jsp
+  twitter: HDI_Gerling
+  img: hdi.png 
+  tfa: "No" 
+
+- name: HDI (Kundenportal KFZ-Versicherung)
+  url: https://www.hdi.de/mein-hdi/login
+  twitter: HDI_Gerling
+  img: hdi.png 
+  tfa: "No" 
+
+- name: HDI (Risk Consulting)
+  url: https://hrc.hdi.global/pub/de/forms/login.jsp
+  img: hdi.png 
+  tfa: "No" 
+
+- name: HDI (VermittlerPortal)
+  url: https://vertriebsservice.hdi-gerling.de/content/public/de/common/index.html
+  twitter: HDI_Gerling
+  img: hdi.png 
+  tfa: "No" 
+
+- name: HUK24 
+  url: https://www.huk24.de/
+  twitter: HUK
+  facebook: HUKCOBURG
+  img: huk24.png
+  tfa: "Yes"
+  eid: Yes
+
+- name: HUK Coburg 
+  url: https://www.huk.de/login.do#
+  twitter: HUK
+  facebook: HUKCOBURG
+  img: huk.jpg
+  tfa: "No"
+
+- name: LVM Versicherung 
+  url: https://www.lvm.de/wps/portal/lvm/privatkunden/?rf=/
+  twitter: lvmversicherung
+  facebook: lvmversicherung
+  img: lvm-versicherung.png
+  tfa: "Yes"
+  eid: Yes
+
+- name: Munich Re
+  url: https://register.munichre.com/login/connect/
+  facebook: munichre
+  twitter: munichre
+  img: munichre.png
+  tfa: "No"
+
+- name: Nürnberger Versicherungsgruppe
+  url: https://www.nuernberger.de
+  twitter: nuernberger
+  facebook: nuernberger
+  img: nuernberger.png
+  tfa: "No"
+
+- name: R+V 24 (Vertragscenter)
+  url: https://www.rv24.de/online/login.xhtml
+  twitter: ruv24_de
+  facebook: rv24.de
+  img: rv24.png
+  tfa: "No"
+
+- name: R+V (Kreditportal)
+  url: https://kredit.ruv.de/kredit/login.jsp 
+  twitter: ruv24_de
+  facebook: rv24.de
+  img: rv24.png
+  tfa: "No"
+
+- name: R+V (Maklerportal)
+  url: https://online.ruv.de/makler/login.jsp 
+  twitter: ruv24_de
+  facebook: rv24.de
+  img: rv24.png
+  tfa: "No"
+
+- name: Signal Iduna
+  url: https://www.signal-iduna.de/
+  facebook: signaliduna
+  img: signal-iduna.jpg
+  tfa: "No"
+
+- name: Sparkassen Versicherung
+  url: https://www.sparkassenversicherung.de/content/privatkunden/service/daten/riester-zulagen/index.html
+  email_address: service@sparkassenversicherung.de 
+  img: sv.jpg
+  tfa: "No"
+
+- name: Talanx 
+  url: https://trb.talanx.com/index.php?id=25
+  twitter: talanx
+  img: talanx.png
+  tfa: "No"
+
+- name: Versicherungskammer Bayern
+  url: https://www.vkb.de
+  facebook: versicherungskammer.bayern
+  twitter: vkb_presse
+  img: vkb.png
+  tfa: "No"
+
+- name: Württembergische Versicherungen
+  url: https://www.wuerttembergische.de
+  twitter: wundw
+  facebook: wundw
+  img: wuerttembergische.jpg
+  tfa: "Yes"
+  tan: Yes
+  doc: https://www.wuestenrotdirect.de/de/gesammelte-faq.html#a1712801

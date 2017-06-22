@@ -6,7 +6,7 @@ websites:
   img: linkedin.png
   tfa: "Yes"
   tan: Yes
-  
+
 - name: Facebook
   url: https://www.facebook.com/
   twitter: facebook
@@ -14,7 +14,7 @@ websites:
   img: facebook.png
   tfa: "Yes"
   tan: Yes
-  
+
 - name: Twitter
   url: https://twitter.com/
   twitter: Twitter
@@ -22,21 +22,21 @@ websites:
   img: twitter.png
   tfa: "Yes"
   tan: Yes
-  
+
 - name: Snapchat
   url: https://www.snapchat.com/l/de-de/
   twitter: snapchatsupport
   img: twitter.png
   tfa: "Yes"
   tan: Yes
-  
+
 - name: Pinterest
   url: https://www.pinterest.de/
   twitter: Pinterest
   facebook: PinterestDE
   img: pinterest.png
   tfa: "No"
-  
+
 - name: Reddit
   url: https://www.reddit.com/
   twitter: reddit
@@ -50,7 +50,7 @@ websites:
   img: googleplus.png
   tfa: "Yes"
   tan: Yes
-  
+
 - name: Flipboard
   url: https://flipboard.com/
   twitter: Flipboard
@@ -64,7 +64,7 @@ websites:
   facebook: InstagramDeutsch
   img: instagram.png
   tfa: "No"
-  
+
 - name: Xing
   url: https://www.xing.com/
   twitter: XING_de

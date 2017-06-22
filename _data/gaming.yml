@@ -7,8 +7,7 @@ websites:
   tfa: "Yes"
   tan: Yes
   smartphone: Yes
-  
-websites:
+
 - name: Uplay
   url: https://www.newmoove.com/
   twitter: UplayUbisoft
@@ -16,8 +15,7 @@ websites:
   img: uplay.png
   tfa: "Yes"
   smartphone: Yes
-  
-websites:
+
 - name: Origin
   url: https://www.origin.com/deu/de-de/
   twitter: OriginInsider
@@ -25,8 +23,7 @@ websites:
   img: origin.png
   tfa: "Yes"
   tan: Yes
-  
-websites:
+
 - name: Playstation Network
   url: https://www.playstation.com/de-de/explore/playstation-network/
   twitter: AskPlayStation
@@ -34,40 +31,35 @@ websites:
   img: playstation.png
   tfa: "Yes"
   tan: Yes
-  
-websites:
+
 - name: Black Desert Online
   url: https://www.blackdesertonline.com/
   twitter: BDO_News
   facebook: BlackDesertOnline
   img: blackdesertonline.png
   tfa: "No"
-  
-websites:
+
 - name: League of Legends
   url: https://www.newmoove.com/
   twitter: LoLGermany
   facebook: LeagueOfLegendsDE
   img: leagueoflegends.png
   tfa: "No"
-  
-websites:
+
 - name: Rockstar Social Club
   url: https://de.socialclub.rockstargames.com/
   twitter: RockstarSupport
   facebook: rockstargames
   img: rockstarsupport.png
   tfa: "No"
-  
-websites:
+
 - name: Nintendo Network
   url: https://my.nintendo.com/
   twitter: NintendoEurope
   facebook: NintendoDE
   img: nintendo.png
   tfa: "No"
-  
-websites:
+
 - name: Xbox Live
   url: http://www.xbox.com/de-DE/live
   twitter: XboxSupport
@@ -75,8 +67,7 @@ websites:
   img: xbox.png
   tfa: "Yes"
   tan: Yes
-  
-websites:
+
 - name: GOG.com
   url: https://www.gog.com/
   twitter: GOGcom
