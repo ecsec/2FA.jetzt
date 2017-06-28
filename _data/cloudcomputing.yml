@@ -343,12 +343,13 @@ websites:
   img: azure.png
   tfa: "No"
 
-- name: amazon web services
+- name: Amazon Web Services
   url: https://aws.amazon.com/de/what-is-cloud-computing/
   twitter: awscloud
   facebook: amazonwebservices.de
   img: amazonws.png
-  tfa: "No"
+  tfa: "Yes"
+  tan: Yes
 
 - name: Google Cloud Platform
   url: https://cloud.google.com/

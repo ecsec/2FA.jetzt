@@ -1,0 +1,65 @@
+websites:
+- name: Vattenfall
+  url: https://www.vattenfall.de/service/login
+  twitter: Vattenfall_De
+  facebook: vattenfall.de
+  img: vattenfall.png
+  tfa: "No"
+  
+- name: E.ON
+  url: https://mein.eon.de/start.html
+  twitter: EON_de
+  facebook: EonEnergieDe
+  img: eon.png
+  tfa: "No"
+  
+- name: E WIE EINFACH
+  url: https://www.e-wie-einfach.de/
+  facebook: ewieeinfach
+  img: ewieeinfach.png
+  tfa: "No"
+  
+- name: Rheinpower
+  url: http://www.rheinpower.de/
+  email_address: service@rheinpower.de
+  img: rheinpower.png
+  tfa: "No"
+  
+- name: entega
+  url: https://www.entega.de/
+  facebook: Entega
+  img: entega.png
+  tfa: "No"
+  
+- name: EWE
+  url: https://www.ewe.de/
+  facebook: eweerleben
+  twitter: moin_ewe
+  img: ewe.png
+  tfa: "No"
+
+- name: yello
+  url: https://www.yello.de/
+  facebook: yello.de
+  twitter: yello_de
+  img: yello.png
+  tfa: "No"
+
+- name: innogy
+  url: https://www.innogy.com
+  facebook: innogized
+  twitter: innogy
+  img: innogy.png
+  tfa: "No"
+  
+- name: gas.de
+  url: http://www.gas.de/
+  email_address: kundenservice@gas.de
+  img: gasde.png
+  tfa: "No"
+  
+- name: eprimo
+  url: https://www.eprimo.de/
+  email_address: kundenservice@eprimo.de
+  img: eprimo.png
+  tfa: "No"
