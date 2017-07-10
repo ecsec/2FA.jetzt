@@ -1,0 +1,231 @@
+websites:
+- name: Bundesagentur für Arbeit
+  url: https://www.arbeitsagentur.de/
+  email_address: kundenreaktionen@arbeitsagentur.de
+  img: agenturfuerarbeit.png
+  tfa: "No"
+  
+- name: Jobbörse.de
+  url: https://www.jobbörse.de
+  facebook: jobboerse.de
+  img: jobboersede.png
+  tfa: "No"
+  
+- name: Xing
+  url: https://www.xing.com/
+  twitter: XING_de
+  facebook: XING
+  img: xing.png
+  tfa: "No"
+  
+- name: Monster
+  url: https://arbeitgeber.monster.de/
+  twitter: MonsterDE
+  facebook: MonsterDE
+  img: monster.png
+  tfa: "No"
+  
+- name: Kalaydo
+  url: https://www.kalaydo.de/jobboerse/
+  twitter: kalaydo
+  facebook: kalaydode
+  img: kalaydo.png
+  tfa: "No"
+  
+- name: Stepstone
+  url: https://www.stepstone.de/
+  twitter: stepstone_de
+  facebook: stepstone.de
+  img: stepstone.png
+  tfa: "No"
+  
+- name: kimeta
+  url: https://www.kimeta.de/
+  twitter: kimetaner
+  facebook: Kimeta.de
+  img: kimeta.png
+  tfa: "No"
+  
+- name: EURES
+  url: https://ec.europa.eu/eures/public/de/homepage
+  twitter: EURESjob
+  facebook: EURESjobs
+  img: eures.png
+  tfa: "No"
+  
+- name: yourfirm
+  url: https://www.yourfirm.de/recruiting/
+  twitter: YOURFIRM_DE
+  facebook: YOURFIRM
+  img: yourfirm.png
+  tfa: "No"
+  
+- name: Stellenanzeigen.de
+  url: https://www.stellenanzeigen.de/arbeitgeber/
+  twitter: stellenanzeigen
+  facebook: stellenanzeigen.de
+  img: stellenanzeigen.png
+  tfa: "No"
+  
+- name: Meine Stellenboerse
+  url: http://meinestellenboerse.de/
+  email_address: info@meinestellenboerse.de
+  img: meinestellenboerse.png
+  tfa: "No"
+  
+- name: Jobware
+  url: https://www.jobware.de/
+  twitter: Stellenboerse
+  facebook: jobware
+  img: jobware.png
+  tfa: "No"
+  
+- name: Jobworld
+  url: https://www.jobworld.de/
+  facebook: JOBworld-120389514719441
+  img: jobworld.png
+  tfa: "No"
+  
+- name: Personalwerk
+  url: https://www.personalwerk.de/media/personalmarketing/
+  twitter: daspersonalwerk
+  img: personalwerk.png
+  tfa: "No"
+  
+- name: Jobs.de
+  url: http://www.jobs.de/
+  twitter: karrieretipps
+  facebook: jobs.de
+  img: jobsde.png
+  tfa: "No"
+  
+- name: Stellen online
+  url: https://www.stellenonline.de/anzeige-schalten
+  email_address: info@stellenonline.de
+  img: stellenonline.png
+  tfa: "No"
+  
+- name: Job Mixer
+  url: https://www.jobmixer.com/
+  email_address: info@jobmixer.com
+  img: jobsmixer.png
+  tfa: "No"
+  
+- name: IT-Treff
+  url: https://www.it-treff.de/
+  twitter: it_treff
+  facebook: IT.Treff
+  img: ittreff.png
+  tfa: "No"
+    
+- name: ictjob.de
+  url: http://www.ictjob.de/
+  twitter: ITjobsProjekt
+  facebook: ictjob.de
+  img: ictjobs.png
+  tfa: "No"
+  
+- name: It Steps
+  url: http://www.itsteps.de/
+  twitter: itstepsde
+  facebook: itstepsde
+  img: itsteps.png
+  tfa: "No"
+  
+- name: IT-Arbeitsmarkt
+  url: http://it-arbeitsmarkt.de/
+  email_address: info@it-arbeitsmarkt.de
+  img: itarbeitsmarkt.png
+  tfa: "No"
+  
+- name: Heise Jobs
+  url: https://jobs.heise.de/
+  email_address: Christiane.Klingenbrunn@heise.de
+  img: heisejobs.png
+  tfa: "No"
+  
+- name: jobsintown.de
+  url: http://www.jobsintown.de/jobsuche/
+  twitter: jobsintown
+  facebook: jobsintown
+  img: jobsintown.png
+  tfa: "No"
+  
+- name: inFranken Jobs
+  url: https://jobs.infranken.de/fuer-arbeitgeber
+  email_address:  anzeigen@infranken.de
+  img: infrankenjobs.png
+  tfa: "No"
+  
+- name: Computerwoche Jobs
+  url: http://jobs.computerwoche.de/
+  twitter: computerwoche
+  facebook: COMPUTERWOCHE
+  img: computerwoche.png
+  tfa: "No"
+  
+- name: t3n Jobs
+  url: http://t3n.de/jobs/
+  twitter: t3n
+  facebook: t3nMagazin
+  img: t3n.png
+  tfa: "No"
+  
+- name: stack overflow Talent
+  url: https://www.stackoverflowbusiness.com/de/talent#
+  twitter: stacktalentde
+  facebook: Stack-Overflow-Talent-Deutsch-763856377116378
+  img: stackoverflow.png
+  tfa: "No"
+  
+- name: meinsestadt.de Jobs
+  url: https://job-shop.meinestadt.de/
+  email_address: info@meinestadt.de
+  img: meinestadt.png
+  tfa: "No"
+  
+- name: Jobcluster One-Click-Recruiter
+  url: http://www.one-click-recruiting.de/
+  twitter: jobcluster
+  facebook: JobclusterDeutschland
+  img: jobcluster.png
+  tfa: "No"
+  
+- name: Jobkurier.de
+  url: https://www.jobkurier.de/
+  email_address: info@jobkurier.de
+  img: jobkurier.png
+  tfa: "No"
+  
+- name: Alphajump
+  url: https://www.alphajump.de/
+  twitter: ALPHAJUMP
+  facebook: ALPHAJUMP.de
+  img: alphajump.png
+  tfa: "No"
+  
+- name: jobleads
+  url: https://www.jobleads.de/
+  twitter: JobLeads
+  facebook: JobLeads_de
+  img: jobleads.png
+  tfa: "No"
+  
+- name: Gigajob
+  url: http://de.gigajob.com/index.html
+  email_address: gigajob@netzmarkt.de
+  img: gigajob.png
+  tfa: "No"
+  
+- name: Dice
+  url: http://de.dice.com/index.php?lang=de
+  twitter: Dice_TechDE
+  facebook: DiceTechDe
+  img: dice.png
+  tfa: "No"
+  
+- name: Regio Jobanzeiger
+  url: https://www.regio-jobanzeiger.de/arbeitgeber/
+  email_address: info@regio-jobanzeiger.de 
+  img: regiojobanzeiger.png
+  tfa: "No"
