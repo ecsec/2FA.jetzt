@@ -54,6 +54,10 @@
   title: Investment
   icon: line chart
 
+- id: jobcenter
+  title: Jobcenter
+  icon: industry
+
 - id: communication
   title: Kommunikation
   icon: chat
