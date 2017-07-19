@@ -26,7 +26,7 @@ websites:
 - name: Snapchat
   url: https://www.snapchat.com/l/de-de/
   twitter: snapchatsupport
-  img: twitter.png
+  img: snapchat.png
   tfa: "Yes"
   tan: Yes
 
@@ -35,7 +35,8 @@ websites:
   twitter: Pinterest
   facebook: PinterestDE
   img: pinterest.png
-  tfa: "No"
+  tfa: "Yes"
+  tan: Yes
 
 - name: Reddit
   url: https://www.reddit.com/

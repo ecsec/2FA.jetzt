@@ -51,7 +51,8 @@ websites:
   twitter: amazonpay
   facebook: AmazonPay
   img: amazonpay.png
-  tfa: "No"
+  tfa: "Yes"
+  tan: Yes
 
 - name: Go Cardless
   url: https://gocardless.com/

@@ -19,14 +19,7 @@ websites:
   facebook: pastebin
   img: pastebin.png
   tfa: "No"
-  
-- name: Monster
-  url: https://www.monster.com/
-  twitter: Monster
-  facebook: MonsterDE
-  img: monster.jpg
-  tfa: "No"
-  
+    
 - name: IEEE
   url: https://www.ieee.org/index.html
   twitter: IEEEorg
