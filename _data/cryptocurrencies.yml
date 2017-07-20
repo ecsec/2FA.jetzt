@@ -68,22 +68,6 @@ websites:
   tfa: "Yes"
   tan: Yes
   
-- name: Coinapult
-  url: https://coinapult.com/
-  twitter: Coinapult
-  facebook: Coinapult
-  img: coinapult.png
-  tfa: "Yes"
-  tan: Yes
-  
-- name: Xapo
-  url: https://xapo.com/
-  twitter: xapo
-  facebook: xapoapp
-  img: xapo.png
-  tfa: "Yes"
-  tan: Yes
-  
 - name: Xapo
   url: https://xapo.com/
   twitter: xapo

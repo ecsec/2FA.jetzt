@@ -23,7 +23,7 @@ websites:
   tfa: "Yes"
   tan: Yes
   
-- name: Doogle
+- name: Doodle
   url: https://beta.doodle.com/de/
   twitter: doodletweet
   facebook: DoodleAG
