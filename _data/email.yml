@@ -30,13 +30,16 @@ websites:
   url: https://posteo.de/de
   twitter: Posteo_de
   img: posteo.png
-  tfa: "No"
+  tfa: "Yes"
+  tan: Yes
 
 - name: mailbox.org
   url: https://mailbox.org/
   twitter: mailbox_org
   img: mailboxorg.png
-  tfa: "No"
+  tfa: "Yes"
+  signatur: Yes
+  tan: Yes
 
 - name: freenetmail
   url: https://email.freenet.de/index.html
@@ -64,3 +67,11 @@ websites:
   facebook: goneo
   img: goneo.png
   tfa: "No"
+
+- name: mail.de
+  url: https://mail.de/
+  twitter: mail_de
+  facebook: mailde-306667712693863
+  img: mailde.png
+  tfa: "Yes"
+  signatur: Yes
