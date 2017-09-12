@@ -18,7 +18,9 @@ websites:
   twitter: TeamViewer
   facebook: teamviewer
   img: teamviewer.png
-  tfa: "No"
+  tfa: "Yes"
+  smartphone: Yes
+  doc: https://www.teamviewer.com/en/help/402-How-do-I-activate-deactivate-two-factor-authentication-for-my-TeamViewer-account.aspx
 
 - name: Iperius Remote
   url: https://www.iperiusremote.de/index.aspx

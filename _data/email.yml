@@ -32,6 +32,7 @@ websites:
   img: posteo.png
   tfa: "Yes"
   tan: Yes
+  doc: https://posteo.de/en/help/what-is-two-factor-authentication-and-how-do-i-set-it-up
 
 - name: mailbox.org
   url: https://mailbox.org/
@@ -40,6 +41,7 @@ websites:
   tfa: "Yes"
   signatur: Yes
   tan: Yes
+  doc: https://support-en.mailbox.org/knowledge-base/article/is-there-a-two-factor-authentication
 
 - name: freenetmail
   url: https://email.freenet.de/index.html
@@ -75,3 +77,4 @@ websites:
   img: mailde.png
   tfa: "Yes"
   signatur: Yes
+  doc: https://mail.de/hilfe/u2f-authenticator
