@@ -71,3 +71,11 @@ websites:
   facebook: hideipvpn
   img: hideipvpn.png
   tfa: "No"
+  
+- name: Server-Eye
+  url: https://www.server-eye.de/
+  twitter: ServerEye
+  facebook: ServerEye
+  img: servereye.png
+  tfa: "Yes"
+  smartphone: Yes
