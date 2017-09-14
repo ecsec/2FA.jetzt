@@ -77,4 +77,5 @@ websites:
   img: mailde.png
   tfa: "Yes"
   signatur: Yes
+  tan: Yes
   doc: https://mail.de/hilfe/u2f-authenticator
