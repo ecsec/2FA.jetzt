@@ -42,6 +42,14 @@ websites:
   img: dkv.png
   tfa: "No"
 
+- name: easy Login GmbH
+  url: https://www.easy-login.de
+  email_address: info@easy-login.de
+  img: easylogin.png
+  tfa: "Yes"
+  eid: Yes
+  tan: Yes
+
 - name: ERGO Direkt 
   url: https://ergodirekt.de/de/persoenlicherbereich.html#login
   twitter: ergodirekt
@@ -139,12 +147,23 @@ websites:
   img: munichre.png
   tfa: "No"
 
-- name: Nürnberger Versicherungsgruppe
+- name: Nürnberger (Kunden Portal)
   url: https://www.nuernberger.de
   twitter: nuernberger
   facebook: nuernberger
   img: nuernberger.png
-  tfa: "No"
+  tfa: "Yes"
+  tan: Yes
+  doc: https://meine.nuernberger.de/kunde/privat/impressum/nutzungsbedingungen
+
+- name: Nürnberger (Makler Portal)
+  url: https://www.nuernberger-portal.de/
+  twitter: nuernberger
+  facebook: nuernberger
+  img: nuernberger.png
+  tfa: "Yes"
+  tan: Yes
+  doc: https://www.nuernberger-portal.de/portal/classic/home
 
 - name: R+V 24 (Vertragscenter)
   url: https://www.rv24.de/online/login.xhtml
