@@ -33,6 +33,21 @@ projects:
     url: https://www.multiotp.net/
     img: placeholder.png
 
+  - name: OATH-LDAP
+    desc: |
+      OATH-LDAP implementiert die OATH-Spezifikationen mit einem LDAP-Server als
+      Backend.
+    std: 
+    url: https://oath-ldap.stroeder.com/ 
+    img: placeholder.png
+
+  - name: Æ-DIR
+    desc: |
+      Æ-DIR nutzt OATH-LDAP, um eine integrierte 2FA-Nutzung zu ermöglichen.
+    std: 
+    url: https://www.ae-dir.com/ 
+    img: placeholder.png
+
   - name: privacyIDEA
     desc: |
       privacyIDEA ist ein Fork von LinOTP und somit auch ein reiner
