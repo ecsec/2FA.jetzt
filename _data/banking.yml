@@ -32,7 +32,9 @@ websites:
   twitter: sparkasse
   facebook: sparkasse
   img: sparkasse.png
-  tfa: "No"
+  tfa: "Yes"
+  tan: Yes
+  doc: https://www.sparkasse.de/service/sicherheit-im-internet/tan-verfahren.html
 
 - name: wirecard bank
   url: https://www.wirecardbank.de/
