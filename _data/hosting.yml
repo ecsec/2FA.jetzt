@@ -67,3 +67,11 @@ websites:
   facebook: checkdomain
   img: checkdomainde.png
   tfa: "No"
+
+- name: Webhostone
+  url: https://www.webhostone.de
+  twitter: WebhostOne
+  img: webhostone.png
+  tfa: "Yes"
+  smartphone: Yes
+  doc: https://www.webhostone.de/faq-vertragliches/wie-aktiviere-ich-im-kcc-die-zwei-faktor-authentifizierung.html
