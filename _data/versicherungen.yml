@@ -123,7 +123,6 @@ websites:
   facebook: HUKCOBURG
   img: huk24.png
   tfa: "Yes"
-  eid: Yes
 
 - name: HUK Coburg 
   url: https://www.huk.de/login.do#
