@@ -72,3 +72,10 @@ websites:
   facebook: XING
   img: xing.png
   tfa: "No"
+
+- name: motor-talk.de
+  url: https://www.motor-talk.de/forum.html
+  twitter: motortalk
+  facebook: motortalk
+  img: motortalk.png
+  tfa: "No"
