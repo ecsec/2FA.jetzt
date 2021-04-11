@@ -68,3 +68,10 @@ websites:
   facebook: Costco
   img: costco.png
   tfa: "No"
+  
+  - name: Mobile.de
+  url: https://www.mobile.de/
+  twitter: mobile_de
+  facebook: mobile.de
+  img: mobile.png
+  tfa: "No"
