@@ -11,7 +11,7 @@ websites:
   twitter: AlibabaTalk
   facebook: AlibabaUS
   img: alibaba.png
-  tfa: "No"   
+  tfa: "No"
 
 - name: Etsy
   url: https://www.etsy.com/
@@ -68,22 +68,23 @@ websites:
   facebook: Costco
   img: costco.png
   tfa: "No"
-  
-  - name: Mobile.de
+
+- name: Mobile.de
   url: https://www.mobile.de/
   twitter: mobile_de
   facebook: mobile.de
   img: mobile.png
   tfa: "No"
 
-  - name: ebay
+- name: ebay
   url: https://www.ebay.de/
   twitter: eBayDE
   facebook: ebay.de
   img: ebay.png
   tfa: "Yes"
-  
-  - name: ebay Kleinanzeigen
+  tan: Yes
+
+- name: ebay Kleinanzeigen
   url: https://www.ebay-kleinanzeigen.de/
   twitter: eBay_KA
   facebook: eBayKleinanzeigen
